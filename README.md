@@ -9,6 +9,20 @@ coisas então utilizei html para repor, porem o html é muito verboso, então qu
   COMO MELHORAR SUA BUSCA DE EMPREGOS NO GOOGLE E LINKEDIN
 </h2>
 
+<div align="center">
+  <a href="https://github.com/steteler">
+    <img src="https://img.shields.io/github/followers/steteler.svg?style=social&label=Follow&maxAge=2592000"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/github/stars/steteler/steteler-jobs-search-tips.svg?style=social"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/github/watchers/steteler/steteler-jobs-search-tips.svg?style=social"/>
+  </a>
+</div>
+
 ### 🚨 Esse repositório segue em CONSTANTE atualizações, não perca nenhuma atualização olhando o tópico "COMO ACOMPANHAR"!
 
 ## Apresentação
