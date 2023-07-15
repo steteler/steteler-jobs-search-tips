@@ -1,3 +1,10 @@
+<!-- 
+Eu optei por colocar código markdown e html pois um complementa o outro, por
+exemplo, o markdown não consegue alinhar o texto no centro, entre diversas outras
+coisas então utilizei html para repor, porem o html é muito verboso então quando não
+é necessário eu utilizo o markdown.
+-->
+
 <h2 align="center">
   COMO MELHORAR SUA BUSCA DE EMPREGOS NO GOOGLE E LINKEDIN
 </h2>
@@ -12,23 +19,28 @@ A busca booleana é um tipo de pesquisa que usa operadores booleanos para combin
 
 ## Linkedin
 <details>
-  <summary>COMANDO LINKEDIN</summary>
-  <code>
-    `Javascript OR Typescript OR Node OR Python OR SQL OR MySQL OR HTML OR CSS OR MongoDB OR Express OR React`
-  </code>
-  
-  🚨 Lembrando que, algumas empresas elas criam um post no linkedin divulgando as vagas para evitar cobranças ao criar as vagas na     
-categoria de vagas. Lembre-se também de selecionar os filtros do linkedin ou clique no link que já deixei disponibilizado, ele já 
-contém os filtros.
+  <summary>
+    COMANDO LINKEDIN
+  </summary>
+  <code>`Javascript OR Typescript OR Node OR Python OR SQL OR MySQL OR HTML OR CSS OR MongoDB OR Express OR React`</code>
+  <br>
+  <br>
+  <p>
+    🚨 Lembrando que, algumas empresas elas criam um post no linkedin divulgando as vagas para evitar cobranças ao criar as vagas na categoria de vagas. Lembre-se também de selecionar os filtros do linkedin ou clique no link que já deixei disponibilizado, ele já contém os filtros.
+  </p>
 </details>
 
 <details>
-  <summary>LINK LINKEDIN VAGAS</summary>
+  <summary>
+    LINK LINKEDIN VAGAS
+  </summary>
 </details>
 
 ## Google
 <details>
-  <summary>COMANDO GOOGLE</summary>
+  <summary>
+    COMANDO GOOGLE
+  </summary>
   <!--
   `Javascript OR Typescript OR Node OR Python OR SQL OR MySQL OR HTML OR CSS OR MongoDB OR Express OR React AND estagio OR trainee OR junior AND remoto OR home-office`
   -->
@@ -39,10 +51,14 @@ contém os filtros.
 </details>
 
 <details>
-  <summary>LINK GOOGLE VAGAS</summary>
+  <summary>
+    LINK GOOGLE VAGAS
+  </summary>
 </details>
 
 ## ACOMPANHE AS ATUALIZAÇÕES!
 <details open>
-  <summary>Tutorial de como acompanhar o repositório</summary>
+  <summary>
+    Tutorial de como acompanhar o repositório
+  </summary>
 </details>
