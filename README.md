@@ -31,7 +31,6 @@ contém os filtros.
 </details>
 
 ## Google
-
 <details>
   <summary>COMANDO GOOGLE</summary>
   <!--
@@ -45,4 +44,9 @@ contém os filtros.
 
 <details>
   <summary>LINK GOOGLE VAGAS</summary>
+</details>
+
+## ACOMPANHE AS ATUALIZAÇÕES!
+<details open>
+  <summary>Tutorial de como acompanhar o repositório</summary>
 </details>
