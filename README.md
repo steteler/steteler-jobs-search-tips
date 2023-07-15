@@ -29,3 +29,20 @@ contém os filtros.
 <details>
   <summary>LINK LINKEDIN VAGAS</summary>
 </details>
+
+## Google
+
+<details>
+  <summary>COMANDO GOOGLE</summary>
+  <!--
+  `Javascript OR Typescript OR Node OR Python OR SQL OR MySQL OR HTML OR CSS OR MongoDB OR Express OR React AND estagio OR trainee OR junior AND remoto OR home-office`
+  -->
+
+  <!--
+  OBS: Você também pode usar a ferramenta de filtragem do google para ser mais assertivo, também deixei essa opção habilitada no link.
+  -->
+</details>
+
+<details>
+  <summary>LINK GOOGLE VAGAS</summary>
+</details>
