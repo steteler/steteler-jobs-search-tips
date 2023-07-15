@@ -90,10 +90,4 @@ Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
   </summary>
   
   ![image](https://github.com/steteler/steteler-jobs-search-tips/assets/12498746/7cebf0e6-6d0d-470d-ad23-5d6b9fb887b0)
-
-  OU
-
-  Você também pode clicar nesses badges para agilizar as coisas!:
-  (colocar os badges aqui)
-
 </details>
