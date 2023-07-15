@@ -23,8 +23,8 @@ A busca booleana é um tipo de pesquisa que usa operadores booleanos para combin
     COMANDO LINKEDIN
   </summary>
   <code>`Javascript OR Typescript OR Node OR Python OR SQL OR MySQL OR HTML OR CSS OR MongoDB OR Express OR React`</code>
-  <br>
-  <br>
+  </br>
+  </br>
   <p>
     🚨 Lembrando que, algumas empresas elas criam um post no linkedin divulgando as vagas para evitar cobranças ao criar as vagas na categoria de vagas. Lembre-se também de selecionar os filtros do linkedin ou clique no link que já deixei disponibilizado, ele já contém os filtros.
   </p>
@@ -34,6 +34,10 @@ A busca booleana é um tipo de pesquisa que usa operadores booleanos para combin
   <summary>
     LINK LINKEDIN VAGAS
   </summary>
+  </br>
+  <a href="https://www.linkedin.com/jobs/search/?currentJobId=3661517854&f_E=1%2C2%2C3&f_WT=2&geoId=106057199&keywords=Javascript%20OR%20Typescript%20OR%20Node%20OR%20Python%20OR%20SQL%20OR%20MySQL%20OR%20HTML%20OR%20CSS%20OR%20MongoDB%20OR%20Express%20OR%20React&location=Brasil&refresh=true">
+    Clique aqui par ser redirecionado ao Linkedin!
+  </a>
 </details>
 
 ## Google
@@ -41,19 +45,20 @@ A busca booleana é um tipo de pesquisa que usa operadores booleanos para combin
   <summary>
     COMANDO GOOGLE
   </summary>
-  <!--
-  `Javascript OR Typescript OR Node OR Python OR SQL OR MySQL OR HTML OR CSS OR MongoDB OR Express OR React AND estagio OR trainee OR junior AND remoto OR home-office`
-  -->
-
-  <!--
-  OBS: Você também pode usar a ferramenta de filtragem do google para ser mais assertivo, também deixei essa opção habilitada no link.
-  -->
+  <code>`Javascript OR Typescript OR Node OR Python OR SQL OR MySQL OR HTML OR CSS OR MongoDB OR Express OR React AND estagio OR trainee OR junior AND remoto OR home-office`</code>
+  </br>
+  </br>
+  🚨 Você também pode usar a ferramenta de filtragem do google para ser mais assertivo, também deixei essa opção habilitada no link.
 </details>
 
 <details>
   <summary>
     LINK GOOGLE VAGAS
   </summary>
+  </br>
+  <a href="https://www.google.com/search?q=Javascript+OR+Typescript+OR+Node+OR+Python+OR+SQL+OR+MySQL+OR+HTML+OR+CSS+OR+MongoDB+OR+Express+OR+React+AND+estagio+OR+trainee+OR+junior+AND+remoto+OR+home-office&biw=1366&bih=625&ei=cg2yZK7FGJ7e1sQPsI-N2A4&ved=0ahUKEwiuxrvt3Y-AAxUer5UCHbBHA-sQ4dUDCA8&uact=5&oq=Javascript+OR+Typescript+OR+Node+OR+Python+OR+SQL+OR+MySQL+OR+HTML+OR+CSS+OR+MongoDB+OR+Express+OR+React+AND+estagio+OR+trainee+OR+junior+AND+remoto+OR+home-office&gs_lp=Egxnd3Mtd2l6LXNlcnAiowFKYXZhc2NyaXB0IE9SIFR5cGVzY3JpcHQgT1IgTm9kZSBPUiBQeXRob24gT1IgU1FMIE9SIE15U1FMIE9SIEhUTUwgT1IgQ1NTIE9SIE1vbmdvREIgT1IgRXhwcmVzcyBPUiBSZWFjdCBBTkQgZXN0YWdpbyBPUiB0cmFpbmVlIE9SIGp1bmlvciBBTkQgcmVtb3RvIE9SIGhvbWUtb2ZmaWNlSABQAFgAcAB4AZABAJgBAKABAKoBALgBA8gBAPgBAeIDBBgAIEE&sclient=gws-wiz-serp">
+    Clique aqui par ser redirecionado ao Google!
+  </a>
 </details>
 
 ## ACOMPANHE AS ATUALIZAÇÕES!
