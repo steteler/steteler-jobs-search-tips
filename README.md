@@ -23,7 +23,7 @@ coisas então utilizei html para repor, porem o html é muito verboso, então qu
   </a>
 </div>
 
-### 🚨 Esse repositório segue em CONSTANTE atualizações, não perca nenhuma atualização olhando o tópico "COMO ACOMPANHAR"!
+### 🚨 Esse repositório segue em CONSTANTE atualizações, não perca nenhuma atualização olhando o tópico "ACOMPANHE AS ATUALIZAÇÕES"! Em breve adicionarei scripts para facilitar ainda mais a sua busca.
 
 ## Apresentação
 Hoje, vou compartilhar com vocês uma maneira altamente eficiente de realizar pesquisas booleanas para encontrar vagas de emprego ou qualquer outro tipo de informação na internet. Independentemente da área em que você esteja buscando oportunidades, seja programação, administração, pedagogia, biologia, entre outras, essa técnica pode ser aplicada com sucesso.
