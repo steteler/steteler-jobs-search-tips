@@ -13,15 +13,13 @@ A busca booleana é um tipo de pesquisa que usa operadores booleanos para combin
 ## Linkedin
 <details>
   <summary>COMANDO LINKEDIN</summary>
-  <!--
-  `Javascript OR Typescript OR Node OR Python OR SQL OR MySQL OR HTML OR CSS OR MongoDB OR Express OR React`
-  -->
-
-  <!--
-  OBS: Lembrando que, algumas empresas elas criam um post no linkedin divulgando as vagas para evitar cobranças ao criar as vagas na     
+  <code>
+    `Javascript OR Typescript OR Node OR Python OR SQL OR MySQL OR HTML OR CSS OR MongoDB OR Express OR React`
+  </code>
+  
+  🚨 Lembrando que, algumas empresas elas criam um post no linkedin divulgando as vagas para evitar cobranças ao criar as vagas na     
 categoria de vagas. Lembre-se também de selecionar os filtros do linkedin ou clique no link que já deixei disponibilizado, ele já 
 contém os filtros.
-  -->
 </details>
 
 <details>
