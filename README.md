@@ -81,7 +81,7 @@ Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
   <summary>
     COMANDO GOOGLE
   </summary>
-  <code>Javascript OR Typescript OR Node OR Python OR SQL OR MySQL OR HTML OR CSS OR MongoDB OR Express OR React AND estagio OR trainee OR junior AND remoto OR home-office</code>
+  <code>(Javascript OR Typescript OR Node OR Python OR SQL OR MySQL OR HTML OR CSS OR MongoDB OR Express OR React) AND (estagio OR trainee OR junior) AND (remoto OR home-office)</code>
   </br>
   </br>
   🚨 Você também pode usar a ferramenta de filtragem do google para ser mais assertivo, também deixei essa opção habilitada no link.
