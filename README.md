@@ -62,7 +62,7 @@ Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
   </br>
   </br>
   <p>
-    🚨 Lembrando que, algumas empresas elas criam um post no linkedin divulgando as vagas para evitar cobranças ao criar as vagas na categoria de vagas. Lembre-se também de selecionar os filtros do linkedin ou clique no link que já deixei disponibilizado, ele já contém os filtros.
+    🚨 Lembrando que, algumas empresas elas criam um post no linkedin divulgando as vagas para evitar cobranças ao criar na categoria de vagas. Lembre-se também de selecionar os filtros do linkedin ou clique no link que já deixei disponibilizado, ele já contém os filtros.
   </p>
 </details>
 
