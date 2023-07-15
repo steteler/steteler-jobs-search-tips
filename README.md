@@ -1,7 +1,7 @@
 <!-- 
 Eu optei por colocar código markdown e html pois um complementa o outro, por
 exemplo, o markdown não consegue alinhar o texto no centro, entre diversas outras
-coisas então utilizei html para repor, porem o html é muito verboso então quando não
+coisas então utilizei html para repor, porem o html é muito verboso, então quando não
 é necessário eu utilizo o markdown.
 -->
 
@@ -12,10 +12,32 @@ coisas então utilizei html para repor, porem o html é muito verboso então qua
 ### 🚨 Esse repositório segue em CONSTANTE atualizações, não perca nenhuma atualização olhando o tópico "COMO ACOMPANHAR"!
 
 ## Apresentação
-Opa, hoje vou ensinar vocês como fazer uma pesquisa booleana para achar as vagas de maneira muito mais ASSERTIVA!
+Hoje, vou compartilhar com vocês uma maneira altamente eficiente de realizar pesquisas booleanas para encontrar vagas de emprego ou qualquer outro tipo de informação na internet. Independentemente da área em que você esteja buscando oportunidades, seja programação, administração, pedagogia, biologia, entre outras, essa técnica pode ser aplicada com sucesso.
+
+A pesquisa booleana é uma poderosa aliada não apenas para encontrar empregos, mas também para obter resultados mais rápidos e precisos em suas pesquisas online. Com ela, é possível filtrar resultados por sites específicos, definir intervalos de tempo, excluir palavras indesejadas dos resultados e destacar palavras essenciais que devem aparecer obrigatoriamente. Isso proporciona uma experiência de busca mais personalizada e efetiva.
 
 ## Como funciona?
-A busca booleana é um tipo de pesquisa que usa operadores booleanos para combinar palavras-chave e restringir os resultados da pesquisa. Os operadores booleanos mais comuns são AND, OR e NOT. Tornando assim sua pesquisa muito mais assertiva, ignorando vagas como pleno, sênior, pleno-sênior, mid-level, etc. ISSO FUNCIONA PARA QUALQUER ÁREA! Não precisa necessariamente ser programador.
+A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores booleanos para combinar palavras-chave e refinar os resultados. Os operadores mais comuns são AND, OR e NOT. Ao aplicar essa abordagem, é possível tornar suas pesquisas muito mais precisas, permitindo que você ignore vagas que não correspondam exatamente ao que está procurando, como pleno, sênior, pleno-sênior, mid-level, entre outras. Sendo composta principalmente por:
+
+⭐ Filtro operadores lógicos: A pesquisa booleana utiliza operadores como "AND", "OR" e "NOT" para refinar os resultados. Por exemplo, ao pesquisar vagas de emprego, você pode combinar palavras-chave relevantes com "AND" para obter resultados mais específicos.
+
+Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
+
+⭐ Filtro de sites específicos: Se você tem preferência por determinados sites de empregos ou de pesquisa, é possível limitar a pesquisa a esses sites específicos. Isso evita que você perca tempo navegando por diversas páginas.
+
+Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
+
+⭐ Filtro de intervalos de tempo: Caso queira visualizar apenas resultados recentes, pode utilizar filtros de tempo para delimitar a pesquisa a um período específico, como "últimos 6 meses" ou "último ano".
+
+Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
+
+⭐ Filtro de palavras indesejadas: Se houver termos que você não quer que apareçam nos resultados, é possível utilizá-los com o operador "NOT". Por exemplo, se você procura vagas de programação, mas não quer estágios, pode usar "programação NOT estágio" na pesquisa.
+
+Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
+
+⭐ Filtro de palavras obrigatórias: Para garantir que determinadas palavras apareçam nos resultados, utilize o sinal de adição (+) antes das palavras essenciais. Por exemplo, "+experiência +profissional".
+
+Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
 
 ## Linkedin
 <details>
