@@ -45,28 +45,28 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <details>
   <summary>⭐ FILTRO DE OPERADORES LÓGICOS</summary>
   <p>
-    A pesquisa booleana utiliza operadores como "AND", "OR" e "NOT" para refinar os resultados. Por exemplo, ao pesquisar vagas de emprego, você pode combinar palavras-chave relevantes com "AND" para obter resultados mais específicos.
+    A pesquisa booleana utiliza operadores como <b>"AND"</b>, <b>"OR"</b> e <b>"NOT"</b> para refinar os resultados. Por exemplo, ao pesquisar vagas de emprego, você pode combinar palavras-chave relevantes com <b>"AND"</b> para obter resultados mais específicos.
   </p>
   <ul>
     <li>
-      Operador AND (E): <code>inteligência artificial AND aprendizado de máquina</code><br/>
-      Resultado: Os resultados conterão páginas que contenham ambas as palavras "inteligência artificial" e "aprendizado de máquina".
+      Operador <b>AND</b> (E): <code>inteligência artificial <b>AND</b> aprendizado de máquina</code><br/>
+      Resultado: Os resultados conterão páginas que contenham ambas as palavras "inteligência artificial" E "aprendizado de máquina".
     </li>
     <li>
-      Operador OR (OU): <code>inteligência artificial OR aprendizado de máquina</code><br/>
-      Resultado: Os resultados conterão páginas que contenham qualquer uma das palavras "inteligência artificial" ou "aprendizado de máquina" ou ambas.
+      Operador <b>OR</b> (OU): <code>inteligência artificial <b>OR</b> aprendizado de máquina</code><br/>
+      Resultado: Os resultados conterão páginas que contenham qualquer uma das palavras "inteligência artificial" OU "aprendizado de máquina" OU ambas.
     </li>
     <li>
-      Operador NOT (NÃO): <code>inteligência artificial NOT aprendizado de máquina</code><br/>
-      Resultado: Os resultados conterão páginas que contenham a palavra "inteligência artificial", mas excluindo aquelas que também mencionam "aprendizado de máquina".
+      Operador <b>NOT</b> (NÃO): <code>inteligência artificial <b>NOT</b> aprendizado de máquina</code><br/>
+      Resultado: Os resultados conterão páginas que contenham a palavra "inteligência artificial", mas EXCLUINDO aquelas que também mencionam "aprendizado de máquina".
     </li>
     <li>
-      Combinação de operadores: <code>(inteligência artificial OR IA) AND (aprendizado de máquina OR machine learning)</code><br/>
-      Resultado: Os resultados conterão páginas que contenham "inteligência artificial" ou "IA" e também "aprendizado de máquina" ou "machine learning".
+      Combinação de operadores: <code><b>(</b>inteligência artificial <b>OR</b> IA<b>)</b> <b>AND</b> <b>(</b>aprendizado de máquina OR machine learning<b>)</b></code><br/>
+      Resultado: Os resultados conterão páginas que contenham "inteligência artificial" OU "IA" E também "aprendizado de máquina" OU "machine learning".
     </li>
     <li>
-      Uso de parênteses para agrupar termos: <code>inteligência artificial AND (aprendizado de máquina OR machine learning)</code><br/>
-      Resultado: Os resultados conterão páginas que contenham a palavra "inteligência artificial" e, em seguida, qualquer uma das palavras "aprendizado de máquina" ou "machine learning".
+      Uso de parênteses para agrupar termos: <code>inteligência artificial <b>AND</b> <b>(</b>aprendizado de máquina <b>OR</b> machine learning<b>)</b></code><br/>
+      Resultado: Os resultados conterão páginas que contenham a palavra "inteligência artificial" E, em seguida, qualquer uma das palavras "aprendizado de máquina" OU "machine learning".
     </li>
   </ul>
 </details>
