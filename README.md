@@ -5,10 +5,14 @@ coisas então utilizei html para repor, porem o html é muito verboso, então qu
 é necessário eu utilizo o markdown.
 -->
 
+<!-- TÍTULO -->
+<!-- HTML -->
 <h2 align="center">
   COMO MELHORAR SUA BUSCA DE EMPREGOS NO GOOGLE E LINKEDIN
 </h2>
 
+<!-- BADGES -->
+<!-- HTML -->
 <div align="center">
   <a href="https://github.com/steteler">
     <img src="https://img.shields.io/github/followers/steteler.svg?style=social&label=Follow&maxAge=2592000"/>
@@ -23,37 +27,97 @@ coisas então utilizei html para repor, porem o html é muito verboso, então qu
   </a>
 </div>
 
+<!-- AVISOS -->
+<!-- MARKDOWN -->
 ### 🚨 Esse repositório segue em CONSTANTE atualizações, não perca nenhuma atualização olhando o tópico "ACOMPANHE AS ATUALIZAÇÕES"! Em breve adicionarei scripts para facilitar ainda mais a sua busca.
 
+<!-- APRESENTAÇÃO -->
+<!-- MARKDOWN -->
 ## Apresentação
 Hoje, vou compartilhar com vocês uma maneira altamente eficiente de realizar pesquisas booleanas para encontrar vagas de emprego ou qualquer outro tipo de informação na internet. Independentemente da área em que você esteja buscando oportunidades, seja programação, administração, pedagogia, biologia, entre outras, essa técnica pode ser aplicada com sucesso.
 
 A pesquisa booleana é uma poderosa aliada não apenas para encontrar empregos, mas também para obter resultados mais rápidos e precisos em suas pesquisas online. Com ela, é possível filtrar resultados por sites específicos, definir intervalos de tempo, excluir palavras indesejadas dos resultados e destacar palavras essenciais que devem aparecer obrigatoriamente. Isso proporciona uma experiência de busca mais personalizada e efetiva.
 
+<!-- COMO FUNCIONA -->
+<!-- MARKDOWN -->
 ## Como funciona?
 A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores booleanos para combinar palavras-chave e refinar os resultados. Os operadores mais comuns são AND, OR e NOT. Ao aplicar essa abordagem, é possível tornar suas pesquisas muito mais precisas, permitindo que você ignore vagas que não correspondam exatamente ao que está procurando, como pleno, sênior, pleno-sênior, mid-level, entre outras. Sendo composta principalmente por:
 
-⭐ Filtro operadores lógicos: A pesquisa booleana utiliza operadores como "AND", "OR" e "NOT" para refinar os resultados. Por exemplo, ao pesquisar vagas de emprego, você pode combinar palavras-chave relevantes com "AND" para obter resultados mais específicos.
+<!-- FILTROS LÓGICOS -->
+<!-- HTML -->
+<details>
+  <summary>⭐ Filtro operadores lógicos</summary>
+  <p>
+    A pesquisa booleana utiliza operadores como "AND", "OR" e "NOT" para refinar os resultados. Por exemplo, ao pesquisar vagas de emprego, você pode combinar palavras-chave relevantes com "AND" para obter resultados mais específicos.
+  </p>
+  <ul>
+    <li>
+      Operador AND (E): <code>inteligência artificial AND aprendizado de máquina</code><br/>
+      Resultado: Os resultados conterão páginas que contenham ambas as palavras "inteligência artificial" e "aprendizado de máquina".
+    </li>
+    <li>
+      Operador OR (OU): <code>inteligência artificial OR aprendizado de máquina</code><br/>
+      Resultado: Os resultados conterão páginas que contenham qualquer uma das palavras "inteligência artificial" ou "aprendizado de máquina" ou ambas.
+    </li>
+    <li>
+      Operador NOT (NÃO): <code>inteligência artificial NOT aprendizado de máquina</code><br/>
+      Resultado: Os resultados conterão páginas que contenham a palavra "inteligência artificial", mas excluindo aquelas que também mencionam "aprendizado de máquina".
+    </li>
+    <li>
+      Combinação de operadores: <code>(inteligência artificial OR IA) AND (aprendizado de máquina OR machine learning)</code><br/>
+      Resultado: Os resultados conterão páginas que contenham "inteligência artificial" ou "IA" e também "aprendizado de máquina" ou "machine learning".
+    </li>
+    <li>
+      Uso de parênteses para agrupar termos: <code>inteligência artificial AND (aprendizado de máquina OR machine learning)</code><br/>
+      Resultado: Os resultados conterão páginas que contenham a palavra "inteligência artificial" e, em seguida, qualquer uma das palavras "aprendizado de máquina" ou "machine learning".
+    </li>
+  </ul>
+</details>
 
-Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
+<!-- FILTROS DE SITES -->
+<!-- HTML -->
+<details>
+  <summary>⭐ Filtro de sites específicos</summary>
+  <p>
+    Se você tem preferência por determinados sites de empregos ou de pesquisa, é possível limitar a pesquisa a esses sites específicos. Isso evita que você perca tempo navegando por diversas páginas.
+  </p>
+  Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
+</details>
 
-⭐ Filtro de sites específicos: Se você tem preferência por determinados sites de empregos ou de pesquisa, é possível limitar a pesquisa a esses sites específicos. Isso evita que você perca tempo navegando por diversas páginas.
+<!-- FILTROS DE INTERVALOS DE TEMPO -->
+<!-- HTML -->
+<details>
+  <summary>⭐ Filtro de intervalos de tempo</summary>
+  <p>
+    Caso queira visualizar apenas resultados recentes, pode utilizar filtros de tempo para delimitar a pesquisa a um período específico, como "últimos 6 meses" ou "último ano".
+  </p>
+  Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
+</details>
 
-Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
+<!-- FILTRO PALAVRAS INDESEJADAS -->
+<!-- HTML -->
+<details>
+  <summary>⭐ Filtro de palavras indesejadas</summary>
+  <p>
+    Se houver termos que você não quer que apareçam nos resultados, é possível utilizá-los com o operador "NOT". Por exemplo, se você procura vagas de programação, mas não quer estágios, pode usar "programação NOT estágio" na pesquisa.
+  </p>
+  Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
+</details>
 
-⭐ Filtro de intervalos de tempo: Caso queira visualizar apenas resultados recentes, pode utilizar filtros de tempo para delimitar a pesquisa a um período específico, como "últimos 6 meses" ou "último ano".
+<!-- FILTRO PALAVRAS OBRIGATÓRIAS -->
+<!-- HTML -->
+<details>
+  <summary>⭐ Filtro de palavras obrigatórias</summary>
+  <p>
+    Para garantir que determinadas palavras apareçam nos resultados, utilize o sinal de adição (+) antes das palavras essenciais. Por exemplo, "+experiência +profissional".
+  </p>
+  Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
+</details>
 
-Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
-
-⭐ Filtro de palavras indesejadas: Se houver termos que você não quer que apareçam nos resultados, é possível utilizá-los com o operador "NOT". Por exemplo, se você procura vagas de programação, mas não quer estágios, pode usar "programação NOT estágio" na pesquisa.
-
-Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
-
-⭐ Filtro de palavras obrigatórias: Para garantir que determinadas palavras apareçam nos resultados, utilize o sinal de adição (+) antes das palavras essenciais. Por exemplo, "+experiência +profissional".
-
-Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
-
+<!-- LINKEDIN CÓDIGO E SITE -->
+<!-- MARKDOWN -->
 ## Linkedin
+<!-- HTML -->
 <details>
   <summary>
     COMANDO LINKEDIN
@@ -76,7 +140,10 @@ Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
   </a>
 </details>
 
+<!-- GOOGLE CÓDIGO E SITE -->
+<!-- MARKDOWN -->
 ## Google
+<!-- HTML -->
 <details>
   <summary>
     COMANDO GOOGLE
@@ -97,11 +164,15 @@ Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
   </a>
 </details>
 
+<!-- ACOMPANHE AS ATUALIZAÇÕES -->
+<!-- MARKDOWN -->
 ## ACOMPANHE AS ATUALIZAÇÕES!
+<!-- HTML -->
 <details open>
   <summary>
     Tutorial de como acompanhar o repositório
   </summary>
-  
+
+  <!-- MARKDOWN -->
   ![image](https://github.com/steteler/steteler-jobs-search-tips/assets/12498746/7cebf0e6-6d0d-470d-ad23-5d6b9fb887b0)
 </details>
