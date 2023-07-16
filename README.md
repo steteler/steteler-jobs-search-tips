@@ -46,7 +46,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- FILTROS LÓGICOS -->
 <!-- HTML -->
 <details>
-  <summary>⭐ Filtro operadores lógicos</summary>
+  <summary>⭐ FILTRO DE OPERADORES LÓGICOS</summary>
   <p>
     A pesquisa booleana utiliza operadores como "AND", "OR" e "NOT" para refinar os resultados. Por exemplo, ao pesquisar vagas de emprego, você pode combinar palavras-chave relevantes com "AND" para obter resultados mais específicos.
   </p>
@@ -77,7 +77,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- FILTROS DE SITES -->
 <!-- HTML -->
 <details>
-  <summary>⭐ Filtro de sites específicos</summary>
+  <summary>⭐ FILTRO DE SITES ESPECÍFICOS</summary>
   <p>
     Se você tem preferência por determinados sites de empregos ou de pesquisa, é possível limitar a pesquisa a esses sites específicos. Isso evita que você perca tempo navegando por diversas páginas.
   </p>
@@ -87,7 +87,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- FILTROS DE INTERVALOS DE TEMPO -->
 <!-- HTML -->
 <details>
-  <summary>⭐ Filtro de intervalos de tempo</summary>
+  <summary>⭐ FILTRO DE INTERVALOS DE TEMPO</summary>
   <p>
     Caso queira visualizar apenas resultados recentes, pode utilizar filtros de tempo para delimitar a pesquisa a um período específico, como "últimos 6 meses" ou "último ano".
   </p>
@@ -97,7 +97,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- FILTRO PALAVRAS INDESEJADAS -->
 <!-- HTML -->
 <details>
-  <summary>⭐ Filtro de palavras indesejadas</summary>
+  <summary>⭐ FILTRO DE PALAVRAS INDESEJADAS</summary>
   <p>
     Se houver termos que você não quer que apareçam nos resultados, é possível utilizá-los com o operador "NOT". Por exemplo, se você procura vagas de programação, mas não quer estágios, pode usar "programação NOT estágio" na pesquisa.
   </p>
@@ -107,7 +107,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- FILTRO PALAVRAS OBRIGATÓRIAS -->
 <!-- HTML -->
 <details>
-  <summary>⭐ Filtro de palavras obrigatórias</summary>
+  <summary>⭐ FILTRO DE PALAVRAS OBRIGATÓRIAS</summary>
   <p>
     Para garantir que determinadas palavras apareçam nos resultados, utilize o sinal de adição (+) antes das palavras essenciais. Por exemplo, "+experiência +profissional".
   </p>
