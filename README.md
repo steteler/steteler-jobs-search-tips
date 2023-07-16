@@ -61,7 +61,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
       Resultado: Os resultados conterão páginas que contenham a palavra "inteligência artificial", mas EXCLUINDO aquelas que também mencionam "aprendizado de máquina".
     </li>
     <li>
-      Combinação de operadores: <code><b>(</b>inteligência artificial <b>OR</b> IA<b>)</b> <b>AND</b> <b>(</b>aprendizado de máquina OR machine learning<b>)</b></code><br/>
+      Combinação de operadores: <code><b>(</b>inteligência artificial <b>OR</b> IA<b>)</b> <b>AND</b> <b>(</b>aprendizado de máquina <b>OR</b> machine learning<b>)</b></code><br/>
       Resultado: Os resultados conterão páginas que contenham "inteligência artificial" OU "IA" E também "aprendizado de máquina" OU "machine learning".
     </li>
     <li>
