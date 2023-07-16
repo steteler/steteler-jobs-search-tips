@@ -1,8 +1,5 @@
 <!-- 
-Eu optei por colocar código markdown e html pois um complementa o outro, por
-exemplo, o markdown não consegue alinhar o texto no centro, entre diversas outras
-coisas então utilizei html para repor, porem o html é muito verboso, então quando não
-é necessário eu utilizo o markdown.
+Eu escolhi combinar códigos em markdown e html, pois eles se complementam mutuamente. Por exemplo, enquanto o markdown pode ser útil para a maioria das formatações de texto, como títulos e listas, ele não oferece suporte para alinhar o texto no centro e algumas outras funcionalidades avançadas. É aí que o html entra, permitindo preencher essas lacunas. No entanto, reconheço que o html pode ser mais verboso em comparação com o markdown, tornando o código mais extenso. Portanto, sempre que possível, opto pelo markdown para manter o código mais limpo e legível.
 -->
 
 <!-- TÍTULO -->
