@@ -5,7 +5,7 @@ Eu escolhi combinar códigos em markdown e html, pois eles se complementam mutua
 <!-- TÍTULO -->
 <!-- HTML -->
 <h2 align="center">
-  COMO MELHORAR SUA BUSCA DE EMPREGOS NO GOOGLE E LINKEDIN
+  COMO MELHORAR SUA BUSCA DE EMPREGOS NO GOOGLE E LINKEDIN!
 </h2>
 
 <!-- BADGES -->
