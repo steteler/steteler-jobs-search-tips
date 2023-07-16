@@ -26,7 +26,7 @@ Eu escolhi combinar códigos em markdown e html, pois eles se complementam mutua
 
 <!-- AVISOS -->
 <!-- MARKDOWN -->
-### 🚨 Este repositório está em constante evolução, sempre recebendo atualizações para melhorar seu conteúdo. Para garantir que você não perca nenhuma delas, fique de olho no tópico "ACOMPANHE AS ATUALIZAÇÕES"! Além disso, em breve, adicionarei scripts que irão aprimorar ainda mais a sua experiência de busca. Mantenha-se atualizado e aproveite ao máximo todo o potencial deste repositório!
+### 🚨 Este repositório está em constante evolução, sempre recebendo atualizações para melhorar seu conteúdo. Para garantir que você não perca nenhuma delas, fique de olho no tópico <a href="#acompanhe-as-atualizações">"ACOMPANHE AS ATUALIZAÇÕES"!</a> Além disso, em breve, adicionarei scripts que irão aprimorar ainda mais a sua experiência de busca. Mantenha-se atualizado e aproveite ao máximo todo o potencial deste repositório!
 
 <!-- APRESENTAÇÃO -->
 <!-- MARKDOWN -->
