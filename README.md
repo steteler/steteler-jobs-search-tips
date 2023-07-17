@@ -12,15 +12,15 @@ Eu escolhi combinar códigos em markdown e html, pois eles se complementam mutua
 <!-- HTML -->
 <div align="center">
   <a href="https://github.com/steteler">
-    <img src="https://img.shields.io/github/followers/steteler.svg?style=social&label=Follow&maxAge=2592000"/>
+    <img src="https://img.shields.io/github/followers/steteler.svg?style=social&label=Followers&maxAge=2592000&cacheSeconds=3600"/>
   </a>
   &nbsp;&nbsp;
   <a href="#">
-    <img src="https://img.shields.io/github/stars/steteler/steteler-jobs-search-tips.svg?style=social"/>
+    <img src="https://img.shields.io/github/stars/steteler/steteler-jobs-search-tips.svg?style=social&cacheSeconds=3600"/>
   </a>
   &nbsp;&nbsp;
   <a href="#">
-    <img src="https://img.shields.io/github/watchers/steteler/steteler-jobs-search-tips.svg?style=social"/>
+    <img src="https://img.shields.io/github/watchers/steteler/steteler-jobs-search-tips.svg?style=social&cacheSeconds=3600"/>
   </a>
 </div>
 
