@@ -38,7 +38,7 @@ A pesquisa booleana é uma poderosa aliada não apenas para encontrar empregos, 
 <!-- COMO FUNCIONA -->
 <!-- MARKDOWN -->
 ## Como funciona?
-A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores booleanos para combinar palavras-chave e refinar os resultados. Os operadores mais comuns são AND, OR e NOT. Ao aplicar essa abordagem, é possível tornar suas pesquisas muito mais precisas, permitindo que você ignore vagas ou resultados que não correspondam exatamente ao que está procurando. Sendo composta principalmente por:
+A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores booleanos para combinar palavras-chave e refinar os resultados. Os operadores mais comuns são <b>AND</b>, <b>OR</b> e <b>NOT</b>. Ao aplicar essa abordagem, é possível tornar suas pesquisas muito mais precisas, permitindo que você ignore vagas ou resultados que não correspondam exatamente ao que está procurando. Sendo composta principalmente por:
 
 <!-- FILTROS LÓGICOS -->
 <!-- HTML -->
