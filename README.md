@@ -145,9 +145,17 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <details>
   <summary>⭐ FILTRO DE PALAVRAS OBRIGATÓRIAS</summary>
   <p>
-    Para garantir que determinadas palavras apareçam nos resultados, utilize o sinal de adição (+) antes das palavras essenciais. Por exemplo, "+experiência +profissional".
+    O filtro de palavras obrigatórias na pesquisa booleana é realizado usando os operadores "AND" e "+". Esses operadores permitem que você especifique palavras ou termos que devem estar presentes em todos os resultados da pesquisa, tornando-a mais precisa e focada.
   </p>
-  Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
+
+  - O operador "AND" é usado para encontrar resultados que contenham todas as palavras especificadas na pesquisa. Quando você usa o "AND" entre palavras ou termos, está instruindo o mecanismo de busca a retornar apenas resultados que incluam todas as palavras mencionadas. Por exemplo: Pesquisa: "Inteligência Artificial AND robôs"
+  Resultados: Esta pesquisa retornará páginas relacionadas à inteligência artificial e que também mencionem a palavra "robôs".
+
+  - O operador "+" também é usado para exigir que uma palavra ou termo específico esteja presente nos resultados da pesquisa. É muito semelhante ao "AND" e, em muitos mecanismos de busca, pode ser usado de forma intercambiável. Por exemplo:
+  Pesquisa: "Tecnologia +inovação"
+  Resultados: Esta pesquisa retornará informações sobre tecnologia que também mencionem a palavra "inovação".
+
+  - A principal diferença entre o "AND" e o "+" é que o "AND" geralmente é suportado por mecanismos de busca avançados que permitem consultas booleanas completas, enquanto o "+" é mais comum em mecanismos de busca mais simples, como os encontrados em mecanismos de busca de sites específicos.
 </details>
 
 <!-- LINKEDIN CÓDIGO E SITE -->
