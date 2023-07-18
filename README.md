@@ -78,7 +78,11 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   <p>
     Se você tem preferência por determinados sites de empregos ou de pesquisa, é possível limitar a pesquisa a esses sites específicos. Isso evita que você perca tempo navegando por diversas páginas.
   </p>
-  Exemplo: (⚠️EM CONSTRUÇÃO!⚠️)
+  O filtro de site na pesquisa booleana é uma poderosa ferramenta que permite aprimorar os resultados de busca, exibindo informações exclusivamente de um site específico. Por exemplo, ao utilizar a pesquisa "benefícios do exercício físico site:saude.gov.br", o mecanismo de busca apresentará somente resultados relacionados a esse tema, mas restritos ao domínio do site do governo de saúde (saude.gov.br). Essa abordagem torna a pesquisa mais precisa e relevante para suas necessidades.
+
+Além disso, é importante destacar que o filtro de site pode ser combinado com outros filtros, como o "+site" (para inclusão obrigatória) e o "-site" (para exclusão de determinado site das pesquisas). Essas combinações fornecem ainda mais controle sobre os resultados e permitem ajustar a pesquisa de acordo com suas preferências.
+
+Antes de realizar a busca, é recomendado verificar a sintaxe correta do operador de filtro usado pelo mecanismo de pesquisa que você está utilizando. Cada mecanismo pode ter sua própria variação, como "site:", "inurl:" ou "domain:", então é fundamental consultar a documentação específica para garantir que o filtro seja aplicado corretamente. Com essa prática, você poderá realizar pesquisas mais eficazes e encontrar informações relevantes de forma mais rápida e eficiente.
 </details>
 
 <!-- FILTROS DE INTERVALOS DE TEMPO -->
