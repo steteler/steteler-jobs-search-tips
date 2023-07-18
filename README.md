@@ -50,24 +50,32 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   </p>
   <ol>
     <li>
-      Operador <b>AND</b> (E): <code>🍉 <b>AND</b> 🍇</code><br/>
-      Resultado: Páginas que contenham ambas as palavras "🍉" e "🍇".
+      Operador <b>AND</b> (E): <code>🍉 <b>AND</b> 🍇</code>
+      <br />
+      <b>Retorna</b>: Resultados que contenham ambas as palavras "🍉" e "🍇".
     </li>
+    <br />
     <li>
-      Operador <b>OR</b> (OU): <code>🍉 <b>OR</b> 🍇</code><br/>
-      Resultado: Páginas que contenham qualquer uma das palavras "🍉" ou "🍇", ou ambas.
+      Operador <b>OR</b> (OU): <code>🍉 <b>OR</b> 🍇</code>
+      <br />
+      <b>Retorna</b>: Resultados que contenham qualquer uma das palavras "🍉" ou "🍇", ou AMBAS.
     </li>
+    <br />
     <li>
-      Operador <b>NOT</b> (NÃO): <code>🍉 <b>NOT</b> 🍇</code><br/>
-      Resultado: Páginas que contenham "🍉", mas excluindo aquelas que também mencionam "🍇".
+      Operador <b>NOT</b> (NÃO): <code>🍉 <b>NOT</b> 🍇</code>
+      <br />
+      <b>Retorna</b>: Resultados que contenham "🍉", mas excluindo aquelas que também mencionam "🍇".
     </li>
+    <br />
     <li>
-      Combinação de operadores: <code><b>(</b>🍉 <b>OR</b> 🍅<b>)</b> <b>AND</b> <b>(</b>🍇 <b>OR</b> 🍌<b>)</b></code><br/>
-      Resultado: Páginas que contenham "🍉" ou "🍅" e também "🍇" ou "🍌".
+      Combinação de operadores: <code><b>(</b>🍉 <b>OR</b> 🍅<b>)</b> <b>AND</b> <b>(</b>🍇 <b>OR</b> 🍌<b>)</b></code>
+      <br />
+      <b>Retorna</b>: Resultados que contenham "🍉" ou "🍅" e também "🍇" ou "🍌".
     </li>
+    <br />
     <li>
       Uso de parênteses para agrupar termos: <code>🍉 <b>AND</b> <b>(</b>🍇 <b>OR</b> 🍌<b>)</b></code><br/>
-      Resultado: Páginas que contenham "🍉" e, em seguida, qualquer uma das palavras "🍇" ou "🍌".
+      <b>Retorna</b>: Resultados que contenham "🍉" e, em seguida, qualquer uma das palavras "🍇" ou "🍌".
     </li>
   </ol>
 </details>
