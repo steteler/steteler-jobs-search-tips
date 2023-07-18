@@ -44,6 +44,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- HTML -->
 <details>
   <summary>⭐ FILTRO DE OPERADORES LÓGICOS</summary>
+  <br />
   <p>
     A pesquisa booleana utiliza operadores como <b>"AND"</b>, <b>"OR"</b> e <b>"NOT"</b> para refinar os resultados. Por exemplo, ao pesquisar vagas de emprego, você pode combinar palavras-chave relevantes com <b>"AND"</b> para obter resultados mais específicos.
   </p>
@@ -75,6 +76,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- HTML -->
 <details>
   <summary>⭐ FILTRO DE SITES ESPECÍFICOS</summary>
+  <br />
   <p>
     Se você tem preferência por determinados sites de empregos ou de pesquisa, é possível limitar a pesquisa a esses sites específicos. Isso evita que você perca tempo navegando por diversas páginas.
   </p>
@@ -89,6 +91,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- HTML -->
 <details>
   <summary>⭐ FILTRO DE INTERVALOS DE TEMPO</summary>
+  <br />
   <p>
     Caso queira visualizar apenas resultados recentes, pode utilizar filtros de tempo para delimitar a pesquisa a um período específico, como "últimos 6 meses" ou "último ano".
   </p>
@@ -125,6 +128,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- HTML -->
 <details>
   <summary>⭐ FILTRO DE PALAVRAS INDESEJADAS</summary>
+  <br />
   <p>
     O filtro de palavras indesejadas na pesquisa booleana, usando os operadores "NOT" e "-", permite excluir certas palavras ou termos da sua consulta de busca para refinar os resultados e obter informações mais relevantes.
   </p>
@@ -144,6 +148,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- HTML -->
 <details>
   <summary>⭐ FILTRO DE PALAVRAS OBRIGATÓRIAS</summary>
+  <br />
   <p>
     O filtro de palavras obrigatórias na pesquisa booleana é realizado usando os operadores "AND" e "+". Esses operadores permitem que você especifique palavras ou termos que devem estar presentes em todos os resultados da pesquisa, tornando-a mais precisa e focada.
   </p>
