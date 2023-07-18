@@ -46,7 +46,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   <summary>⭐ FILTRO DE OPERADORES LÓGICOS</summary>
   <br />
   <p>
-    A pesquisa booleana utiliza operadores como <b>"AND"</b>, <b>"OR"</b> e <b>"NOT"</b> para combinar palavras-chave e obter resultados mais precisos.
+    A pesquisa booleana utiliza operadores lógicos como <b>"AND"</b>, <b>"OR"</b> e <b>"NOT"</b> para combinar palavras-chave e obter resultados mais precisos.
   </p>
   <ol>
     <li>
