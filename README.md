@@ -48,36 +48,25 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 
   O filtro de operadores lógicos, como <b>"AND"</b>, <b>"OR"</b> e <b>"NOT"</b>, permite combinar palavras-chave e obter resultados mais precisos. Esses operadores são valiosos para refinar pesquisas e restringir os resultados de acordo com critérios específicos. Por exemplo:
 
-  <ol>
-    <li>
-      Operador <b>AND</b> (E): <code>🍉 <b>AND</b> 🍇</code>
-      <br />
-      <b>Retorna</b>: Resultados que contenham ambas as palavras "🍉" e "🍇".
-    </li>
-    <br />
-    <li>
-      Operador <b>OR</b> (OU): <code>🍉 <b>OR</b> 🍇</code>
-      <br />
-      <b>Retorna</b>: Resultados que contenham qualquer uma das palavras "🍉" ou "🍇", ou AMBAS.
-    </li>
-    <br />
-    <li>
-      Operador <b>NOT</b> (NÃO): <code>🍉 <b>NOT</b> 🍇</code>
-      <br />
-      <b>Retorna</b>: Resultados que contenham "🍉", mas excluindo aquelas que também mencionam "🍇".
-    </li>
-    <br />
-    <li>
-      Uso de parênteses para agrupar termos: <code>🍉 <b>AND</b> <b>(</b>🍇 <b>OR</b> 🍌<b>)</b></code><br/>
-      <b>Retorna</b>: Resultados que contenham "🍉" e, em seguida, qualquer uma das palavras "🍇" ou "🍌".
-    </li>
-    <br />
-    <li>
-      Combinação de operadores: <code><b>(</b>🍉 <b>OR</b> 🍅<b>)</b> <b>AND</b> <b>(</b>🍇 <b>OR</b> 🍌<b>)</b></code>
-      <br />
-      <b>Retorna</b>: Resultados que contenham "🍉" ou "🍅" e também "🍇" ou "🍌".
-    </li>
-  </ol>
+  1. Operador **AND** (E): `🍉 AND 🍇`
+      
+      **Retorna**: Resultados que contenham ambas as palavras "🍉" e "🍇".
+  
+  2. Operador **OR** (OU): `🍉 OR 🍇`
+      
+      **Retorna**: Resultados que contenham qualquer uma das palavras "🍉" ou "🍇", ou AMBAS.
+  
+  3. Operador **NOT** (NÃO): `🍉 NOT 🍇`
+      
+      **Retorna**: Resultados que contenham "🍉", mas excluindo aquelas que também mencionam "🍇".
+  
+  4. Uso de parênteses para agrupar termos: `🍉 AND (🍇 OR 🍌)`
+      
+      **Retorna**: Resultados que contenham "🍉" e, em seguida, qualquer uma das palavras "🍇" ou "🍌".
+  
+  5. Combinação de operadores: `(🍉 OR 🍅) AND (🍇 OR 🍌)`
+      
+      **Retorna**: Resultados que contenham "🍉" ou "🍅" e também "🍇" ou "🍌".
 </details>
 
 <!-- FILTROS DE SITES -->
