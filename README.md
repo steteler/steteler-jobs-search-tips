@@ -96,13 +96,13 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   <br />
   <ol>
     <li>
-      Operador "site:" ou "+site:": Por exemplo, ao pesquisar por <code>"benefícios do exercício físico site:saude.gov.br"</code>, o mecanismo de busca apresentará somente resultados relacionados a esse tema, mas restritos ao domínio do site do governo de saúde (saude.gov.br).
+      Operador <b>site:</b> ou <b>+site:</b>: Por exemplo, ao pesquisar por <code>"benefícios do exercício físico site:saude.gov.br"</code>, o mecanismo de busca apresentará somente resultados relacionados a esse tema, mas restritos ao domínio do site do governo de saúde (saude.gov.br).
       <br />
       <b>Retorna</b>: Os resultados estarão restritos ao domínio do site especificado.
     </li>
     <br />
     <li>
-      Operador "-site": Para excluir resultados de um site específico das pesquisas. Por exemplo, ao pesquisar por <code>"benefícios do exercício físico -site:wikipedia.org"</code>, você excluirá todos os resultados provenientes do site correspondente.
+      Operador <b>-site:</b>: Para excluir resultados de um site específico das pesquisas. Por exemplo, ao pesquisar por <code>"benefícios do exercício físico -site:wikipedia.org"</code>, você excluirá todos os resultados provenientes do site correspondente.
       <br />
       <b>Retorna</b>: Os resultados não incluirão informações provenientes do site especificado.
     </li>
