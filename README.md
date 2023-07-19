@@ -46,7 +46,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   <summary>⭐ FILTRO DE OPERADORES LÓGICOS</summary>
   <br />
 
-  A pesquisa booleana utiliza operadores lógicos como <b>"AND"</b>, <b>"OR"</b> e <b>"NOT"</b> para combinar palavras-chave e obter resultados mais precisos.
+  O filtro de operadores lógicos, como <b>"AND"</b>, <b>"OR"</b> e <b>"NOT"</b>, permite combinar palavras-chave e obter resultados mais precisos. Esses operadores são valiosos para refinar pesquisas e restringir os resultados de acordo com critérios específicos. Por exemplo:
 
   <ol>
     <li>
@@ -85,10 +85,13 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <details>
   <summary>⭐ FILTRO DE SITES ESPECÍFICOS</summary>
   <br />
-  O filtro de site na pesquisa booleana permite aprimorar os resultados de busca exibindo ou excluindo informações de um site específico. Além disso, é importante destacar que o filtro de site pode ser combinado com outros filtros, ampliando ainda mais as possibilidades de busca.
+  O filtro de site na pesquisa booleana é uma ferramenta poderosa que permite aprimorar os resultados de busca, possibilitando exibir ou excluir informações de um site específico. Com esse recurso, os usuários podem refinar suas pesquisas para obter resultados mais relevantes e direcionados.
   <br />
   <br />
-  É importante verificar a sintaxe correta do operador de filtro suportado pelo mecanismo de pesquisa que você está utilizando. Cada mecanismo pode ter sua própria variação para esse propósito, tais como "site:", "inurl:" ou "domain:".
+  É fundamental ressaltar que o filtro de site pode ser combinado com outros filtros, o que amplia ainda mais as possibilidades de busca e permite a personalização das informações desejadas.
+  <br />
+  <br />
+  Contudo, é importante ter atenção à sintaxe correta do operador de filtro suportado pelo mecanismo de pesquisa que está sendo utilizado. Cada mecanismo pode adotar sua própria variação para esse propósito, tais como "site:", "inurl:" ou "domain:". Por isso, familiarizar-se com a sintaxe apropriada é essencial para aproveitar ao máximo essa funcionalidade e obter resultados precisos e pertinentes em suas pesquisas.
   <br />
   <br />
   <ol>
