@@ -43,7 +43,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- FILTROS LÓGICOS -->
 <!-- HTML -->
 <details>
-  <summary>⭐ FILTRO DE OPERADORES LÓGICOS</summary>
+  <summary>⭐ FILTRO DE OPERADORES LÓGICOS [100% ✔️]</summary>
   <br />
 
   O filtro de operadores lógicos, como <b>"AND"</b>, <b>"OR"</b> e <b>"NOT"</b>, permite combinar palavras-chave e obter resultados mais precisos. Esses operadores são valiosos para refinar pesquisas e restringir os resultados de acordo com critérios específicos.
@@ -94,7 +94,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- FILTROS DE SITES -->
 <!-- HTML -->
 <details>
-  <summary>⭐ FILTRO DE DOMÍNIOS ESPECÍFICOS</summary>
+  <summary>⭐ FILTRO DE DOMÍNIOS ESPECÍFICOS [100% ✔️]</summary>
   <br />
   O filtro de site possibilita a exibição ou exclusão de informações de um domínio específico. Essa funcionalidade permite que você refine suas pesquisas e obtenha resultados mais relevantes e direcionados de acordo com suas necessidades.
   <br />
@@ -124,7 +124,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- FILTROS DE INTERVALOS DE TEMPO -->
 <!-- HTML -->
 <details>
-  <summary>⭐ FILTRO DE INTERVALOS DE TEMPO</summary>
+  <summary>⭐ FILTRO DE INTERVALOS DE TEMPO [50% ⚠️]</summary>
   <br />
   Caso queira visualizar apenas resultados recentes, pode utilizar filtros de tempo para delimitar a pesquisa a um período específico, como "últimos 6 meses" ou "último ano".
   <br />
@@ -161,7 +161,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- FILTRO PALAVRAS INDESEJADAS -->
 <!-- HTML -->
 <details>
-  <summary>⭐ FILTRO DE PALAVRAS INDESEJADAS</summary>
+  <summary>⭐ FILTRO DE PALAVRAS INDESEJADAS [50% ⚠️]</summary>
   <br />
   O filtro de palavras indesejadas na pesquisa booleana, usando os operadores "NOT" e "-", permite excluir certas palavras ou termos da sua consulta de busca para refinar os resultados e obter informações mais relevantes.
 
@@ -179,7 +179,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- FILTRO PALAVRAS OBRIGATÓRIAS -->
 <!-- HTML -->
 <details>
-  <summary>⭐ FILTRO DE PALAVRAS OBRIGATÓRIAS</summary>
+  <summary>⭐ FILTRO DE PALAVRAS OBRIGATÓRIAS [50% ⚠️]</summary>
   <br />
   O filtro de palavras obrigatórias na pesquisa booleana é realizado usando os operadores "AND" e "+". Esses operadores permitem que você especifique palavras ou termos que devem estar presentes em todos os resultados da pesquisa, tornando-a mais precisa e focada.
 
@@ -198,9 +198,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 ## Linkedin
 <!-- HTML -->
 <details>
-  <summary>
-    COMANDO LINKEDIN
-  </summary>
+  <summary>COMANDO LINKEDIN [80% ⚠️]</summary>
   <code>Javascript OR Typescript OR Node OR Python OR SQL OR MySQL OR HTML OR CSS OR MongoDB OR Express OR React</code>
   </br>
   </br>
@@ -210,9 +208,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 </details>
 
 <details>
-  <summary>
-    LINK LINKEDIN VAGAS
-  </summary>
+  <summary>LINK LINKEDIN VAGAS [80% ⚠️]</summary>
   </br>
   <a href="https://www.linkedin.com/jobs/search/?currentJobId=3661517854&f_E=1%2C2%2C3&f_WT=2&geoId=106057199&keywords=Javascript%20OR%20Typescript%20OR%20Node%20OR%20Python%20OR%20SQL%20OR%20MySQL%20OR%20HTML%20OR%20CSS%20OR%20MongoDB%20OR%20Express%20OR%20React&location=Brasil&refresh=true">
     Clique aqui par ser redirecionado ao Linkedin!
@@ -224,9 +220,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 ## Google
 <!-- HTML -->
 <details>
-  <summary>
-    COMANDO GOOGLE
-  </summary>
+  <summary>COMANDO GOOGLE [80% ⚠️]</summary>
   <code>(Javascript OR Typescript OR Node OR Python OR SQL OR MySQL OR HTML OR CSS OR MongoDB OR Express OR React) AND (estagio OR trainee OR junior) AND (remoto OR home-office)</code>
   </br>
   </br>
@@ -234,9 +228,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 </details>
 
 <details>
-  <summary>
-    LINK GOOGLE VAGAS
-  </summary>
+  <summary>LINK GOOGLE VAGAS [80% ⚠️]</summary>
   </br>
   <a href="https://www.google.com/search?q=Javascript+OR+Typescript+OR+Node+OR+Python+OR+SQL+OR+MySQL+OR+HTML+OR+CSS+OR+MongoDB+OR+Express+OR+React+AND+estagio+OR+trainee+OR+junior+AND+remoto+OR+home-office&biw=1366&bih=625&ei=cg2yZK7FGJ7e1sQPsI-N2A4&ved=0ahUKEwiuxrvt3Y-AAxUer5UCHbBHA-sQ4dUDCA8&uact=5&oq=Javascript+OR+Typescript+OR+Node+OR+Python+OR+SQL+OR+MySQL+OR+HTML+OR+CSS+OR+MongoDB+OR+Express+OR+React+AND+estagio+OR+trainee+OR+junior+AND+remoto+OR+home-office&gs_lp=Egxnd3Mtd2l6LXNlcnAiowFKYXZhc2NyaXB0IE9SIFR5cGVzY3JpcHQgT1IgTm9kZSBPUiBQeXRob24gT1IgU1FMIE9SIE15U1FMIE9SIEhUTUwgT1IgQ1NTIE9SIE1vbmdvREIgT1IgRXhwcmVzcyBPUiBSZWFjdCBBTkQgZXN0YWdpbyBPUiB0cmFpbmVlIE9SIGp1bmlvciBBTkQgcmVtb3RvIE9SIGhvbWUtb2ZmaWNlSABQAFgAcAB4AZABAJgBAKABAKoBALgBA8gBAPgBAeIDBBgAIEE&sclient=gws-wiz-serp">
     Clique aqui par ser redirecionado ao Google!
