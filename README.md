@@ -91,12 +91,12 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   É fundamental ressaltar que o filtro de site pode ser combinado com outros filtros, o que amplia ainda mais as possibilidades de busca e permite a personalização das informações desejadas.
   <br />
   <br />
-  Contudo, é importante ter atenção à sintaxe correta do operador de filtro suportado pelo mecanismo de pesquisa que está sendo utilizado. Cada mecanismo pode adotar sua própria variação para esse propósito, tais como "site:", "inurl:" ou "domain:". Por isso, familiarizar-se com a sintaxe apropriada é essencial para aproveitar ao máximo essa funcionalidade e obter resultados precisos e pertinentes em suas pesquisas.
+  Contudo, é importante ter atenção à sintaxe correta do operador de filtro suportado pelo mecanismo de pesquisa que está sendo utilizado. Cada mecanismo pode adotar sua própria variação para esse propósito, tais como <b>"site:</b>", <b>"inurl:"</b> ou <b>"domain:"</b>. Por isso, familiarizar-se com a sintaxe apropriada é essencial para aproveitar ao máximo essa funcionalidade e obter resultados precisos e pertinentes em suas pesquisas.
   <br />
   <br />
   <ol>
     <li>
-      Operador <b>site:</b> ou <b>+site:</b>: Por exemplo, ao pesquisar por <code>"benefícios do exercício físico site:saude.gov.br"</code>, o mecanismo de busca apresentará somente resultados relacionados a esse tema, mas restritos ao domínio do site do governo de saúde (saude.gov.br).
+      Operador <b>site:</b> ou <b>+site</b>: Por exemplo, ao pesquisar por <code>"benefícios do exercício físico site:saude.gov.br"</code>, o mecanismo de busca apresentará somente resultados relacionados a esse tema, mas restritos ao domínio do site do governo de saúde (saude.gov.br).
       <br />
       <b>Retorna</b>: Os resultados estarão restritos ao domínio do site especificado.
     </li>
