@@ -50,30 +50,41 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 
   <ol>
     <li>
-      Operador <b>AND</b> (E): <code>🍉 <b>AND</b> 🍇</code>
+      Operador <b>AND</b> (E):
+      <br />
+      <code>🍉 <b>AND</b> 🍇</code> ou <code>melancia <b>AND</b> uva</code>
       <br />
       <b>Retorna</b>: Resultados que contenham ambas as palavras "🍉" e "🍇".
     </li>
     <br />
     <li>
-      Operador <b>OR</b> (OU): <code>🍉 <b>OR</b> 🍇</code>
+      Operador <b>OR</b> (OU):
+      <br />
+      <code>🍉 <b>OR</b> 🍇</code> ou <code>melancia <b>OR</b> uva</code>
       <br />
       <b>Retorna</b>: Resultados que contenham qualquer uma das palavras "🍉" ou "🍇", ou AMBAS.
     </li>
     <br />
     <li>
-      Operador <b>NOT</b> (NÃO): <code>🍉 <b>NOT</b> 🍇</code>
+      Operador <b>NOT</b> (NÃO):
+      <br />
+      <code>🍉 <b>NOT</b> 🍇</code> ou <code>melancia <b>NOT</b> uva</code>
       <br />
       <b>Retorna</b>: Resultados que contenham "🍉", mas excluindo aquelas que também mencionam "🍇".
     </li>
     <br />
     <li>
-      Uso de parênteses para agrupar termos: <code>🍉 <b>AND</b> <b>(</b>🍇 <b>OR</b> 🍌<b>)</b></code><br/>
+      Uso de parênteses para agrupar termos:
+      <br />
+      <code>🍉 <b>AND</b> <b>(</b>🍇 <b>OR</b> 🍌<b>)</b></code> ou <code>melancia <b>AND</b> <b>(</b>uva <b>OR</b> banana<b>)</b></code>
+      <br />
       <b>Retorna</b>: Resultados que contenham "🍉" e, em seguida, qualquer uma das palavras "🍇" ou "🍌".
     </li>
     <br />
     <li>
-      Combinação de operadores: <code><b>(</b>🍉 <b>OR</b> 🍅<b>)</b> <b>AND</b> <b>(</b>🍇 <b>OR</b> 🍌<b>)</b></code>
+      Combinação de operadores:
+      <br />
+      <code><b>(</b>🍉 <b>OR</b> 🍅<b>)</b> <b>AND</b> <b>(</b>🍇 <b>OR</b> 🍌<b>)</b></code> ou <code><b>(</b>melancia <b>OR</b> tomate<b>)</b> <b>AND</b> <b>(</b>uva <b>OR</b> banana<b>)</b></code>
       <br />
       <b>Retorna</b>: Resultados que contenham "🍉" ou "🍅" e também "🍇" ou "🍌".
     </li>
