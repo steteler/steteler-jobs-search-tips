@@ -38,7 +38,7 @@ A pesquisa booleana é uma poderosa aliada não apenas para encontrar empregos, 
 <!-- COMO FUNCIONA -->
 <!-- MARKDOWN -->
 ## Como funciona?
-A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores booleanos para combinar palavras-chave e refinar os resultados. Os operadores mais comuns são <b>AND</b>, <b>OR</b> e <b>NOT</b>. Ao aplicar essa abordagem, é possível tornar suas pesquisas muito mais precisas, permitindo que você ignore vagas ou resultados que não correspondam exatamente ao que está procurando. Sendo composta principalmente por:
+A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores booleanos, como <b>AND</b>, <b>OR</b> e <b>NOT</b>, para combinar palavras-chave e refinar os resultados. Essa abordagem possibilita tornar suas pesquisas mais precisas, permitindo que você ignore resultados que não correspondam exatamente ao que está procurando. A flexibilidade dessa técnica permite combinar diversos filtros, ampliando as possibilidades de busca e permitindo a personalização das informações desejadas. É uma ferramenta fundamental para aprimorar a eficácia das buscas na internet.
 
 <!-- FILTROS LÓGICOS -->
 <!-- HTML -->
@@ -46,7 +46,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   <summary>⭐ FILTRO DE OPERADORES LÓGICOS</summary>
   <br />
 
-  O filtro de operadores lógicos, como <b>"AND"</b>, <b>"OR"</b> e <b>"NOT"</b>, permite combinar palavras-chave e obter resultados mais precisos. Esses operadores são valiosos para refinar pesquisas e restringir os resultados de acordo com critérios específicos. Por exemplo:
+  O filtro de operadores lógicos, como <b>"AND"</b>, <b>"OR"</b> e <b>"NOT"</b>, permite combinar palavras-chave e obter resultados mais precisos. Esses operadores são valiosos para refinar pesquisas e restringir os resultados de acordo com critérios específicos.
 
   <ol>
     <li>
@@ -96,10 +96,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <details>
   <summary>⭐ FILTRO DE SITES ESPECÍFICOS</summary>
   <br />
-  O filtro de site na pesquisa booleana é uma ferramenta poderosa que permite aprimorar os resultados de busca, possibilitando exibir ou excluir informações de um site específico. Com esse recurso, os usuários podem refinar suas pesquisas para obter resultados mais relevantes e direcionados.
-  <br />
-  <br />
-  É fundamental ressaltar que o filtro de site pode ser combinado com outros filtros, o que amplia ainda mais as possibilidades de busca e permite a personalização das informações desejadas.
+  O filtro de site possibilita a exibição ou exclusão de informações de um site específico. Essa funcionalidade permite que você refine suas pesquisas e obtenha resultados mais relevantes e direcionados de acordo com suas necessidades.
   <br />
   <br />
   Contudo, é importante ter atenção à sintaxe correta do operador de filtro suportado pelo mecanismo de pesquisa que está sendo utilizado. Cada mecanismo pode adotar sua própria variação para esse propósito, tais como <b>"site:</b>", <b>"inurl:"</b> ou <b>"domain:"</b>. Por isso, familiarizar-se com a sintaxe apropriada é essencial para aproveitar ao máximo essa funcionalidade e obter resultados precisos e pertinentes em suas pesquisas.
