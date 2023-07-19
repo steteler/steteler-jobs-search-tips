@@ -45,9 +45,9 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <details>
   <summary>⭐ FILTRO DE OPERADORES LÓGICOS</summary>
   <br />
-  <p>
-    A pesquisa booleana utiliza operadores lógicos como <b>"AND"</b>, <b>"OR"</b> e <b>"NOT"</b> para combinar palavras-chave e obter resultados mais precisos.
-  </p>
+
+  A pesquisa booleana utiliza operadores lógicos como <b>"AND"</b>, <b>"OR"</b> e <b>"NOT"</b> para combinar palavras-chave e obter resultados mais precisos.
+
   <ol>
     <li>
       Operador <b>AND</b> (E): <code>🍉 <b>AND</b> 🍇</code>
@@ -68,27 +68,26 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
     </li>
     <br />
     <li>
+      Uso de parênteses para agrupar termos: <code>🍉 <b>AND</b> <b>(</b>🍇 <b>OR</b> 🍌<b>)</b></code><br/>
+      <b>Retorna</b>: Resultados que contenham "🍉" e, em seguida, qualquer uma das palavras "🍇" ou "🍌".
+    </li>
+    <br />
+    <li>
       Combinação de operadores: <code><b>(</b>🍉 <b>OR</b> 🍅<b>)</b> <b>AND</b> <b>(</b>🍇 <b>OR</b> 🍌<b>)</b></code>
       <br />
       <b>Retorna</b>: Resultados que contenham "🍉" ou "🍅" e também "🍇" ou "🍌".
     </li>
-    <br />
-    <li>
-      Uso de parênteses para agrupar termos: <code>🍉 <b>AND</b> <b>(</b>🍇 <b>OR</b> 🍌<b>)</b></code><br/>
-      <b>Retorna</b>: Resultados que contenham "🍉" e, em seguida, qualquer uma das palavras "🍇" ou "🍌".
-    </li>
   </ol>
 </details>
-
 
 <!-- FILTROS DE SITES -->
 <!-- HTML -->
 <details>
   <summary>⭐ FILTRO DE SITES ESPECÍFICOS</summary>
   <br />
-  <p>
-    Se você tem preferência por determinados sites de empregos ou de pesquisa, é possível limitar a pesquisa a esses sites específicos. Isso evita que você perca tempo navegando por diversas páginas.
-  </p>
+  Se você tem preferência por determinados sites de empregos ou de pesquisa, é possível limitar a pesquisa a esses sites específicos. Isso evita que você perca tempo navegando por diversas páginas.
+  <br />
+  <br />
   O filtro de site na pesquisa booleana é uma poderosa ferramenta que permite aprimorar os resultados de busca, exibindo informações exclusivamente de um site específico. Por exemplo, ao utilizar a pesquisa "benefícios do exercício físico site:saude.gov.br", o mecanismo de busca apresentará somente resultados relacionados a esse tema, mas restritos ao domínio do site do governo de saúde (saude.gov.br). Essa abordagem torna a pesquisa mais precisa e relevante para suas necessidades.
 
   Além disso, é importante destacar que o filtro de site pode ser combinado com outros filtros, como o "+site" (para inclusão obrigatória) e o "-site" (para exclusão de determinado site das pesquisas). Essas combinações fornecem ainda mais controle sobre os resultados e permitem ajustar a pesquisa de acordo com suas preferências.
@@ -101,9 +100,9 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <details>
   <summary>⭐ FILTRO DE INTERVALOS DE TEMPO</summary>
   <br />
-  <p>
-    Caso queira visualizar apenas resultados recentes, pode utilizar filtros de tempo para delimitar a pesquisa a um período específico, como "últimos 6 meses" ou "último ano".
-  </p>
+  Caso queira visualizar apenas resultados recentes, pode utilizar filtros de tempo para delimitar a pesquisa a um período específico, como "últimos 6 meses" ou "último ano".
+  <br />
+  <br />
   O filtro de intervalo de tempo na pesquisa booleana é uma ferramenta que permite restringir os resultados da busca para um período específico. Ele é muito útil quando você deseja encontrar informações relevantes em um intervalo de tempo particular ou acompanhar eventos e notícias ocorridos dentro de um determinado período.
 
   A sintaxe geral para usar o filtro de intervalo de tempo varia dependendo do mecanismo de pesquisa, mas geralmente segue o formato:
@@ -138,9 +137,8 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <details>
   <summary>⭐ FILTRO DE PALAVRAS INDESEJADAS</summary>
   <br />
-  <p>
-    O filtro de palavras indesejadas na pesquisa booleana, usando os operadores "NOT" e "-", permite excluir certas palavras ou termos da sua consulta de busca para refinar os resultados e obter informações mais relevantes.
-  </p>
+  <br />
+  O filtro de palavras indesejadas na pesquisa booleana, usando os operadores "NOT" e "-", permite excluir certas palavras ou termos da sua consulta de busca para refinar os resultados e obter informações mais relevantes.
 
   - Operador "NOT": É usado para excluir palavras específicas dos resultados da pesquisa. Quando você usa o "NOT" antes de uma palavra ou termo, está instruindo o mecanismo de busca a ignorar resultados que contenham essa palavra. Por exemplo:
   Pesquisa: "Inteligência Artificial NOT robôs"
@@ -158,9 +156,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <details>
   <summary>⭐ FILTRO DE PALAVRAS OBRIGATÓRIAS</summary>
   <br />
-  <p>
-    O filtro de palavras obrigatórias na pesquisa booleana é realizado usando os operadores "AND" e "+". Esses operadores permitem que você especifique palavras ou termos que devem estar presentes em todos os resultados da pesquisa, tornando-a mais precisa e focada.
-  </p>
+  O filtro de palavras obrigatórias na pesquisa booleana é realizado usando os operadores "AND" e "+". Esses operadores permitem que você especifique palavras ou termos que devem estar presentes em todos os resultados da pesquisa, tornando-a mais precisa e focada.
 
   - O operador "AND" é usado para encontrar resultados que contenham todas as palavras especificadas na pesquisa. Quando você usa o "AND" entre palavras ou termos, está instruindo o mecanismo de busca a retornar apenas resultados que incluam todas as palavras mencionadas. Por exemplo: Pesquisa: "Inteligência Artificial AND robôs"
   Resultados: Esta pesquisa retornará páginas relacionadas à inteligência artificial e que também mencionem a palavra "robôs".
