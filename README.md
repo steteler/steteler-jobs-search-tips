@@ -137,7 +137,6 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <details>
   <summary>⭐ FILTRO DE PALAVRAS INDESEJADAS</summary>
   <br />
-  <br />
   O filtro de palavras indesejadas na pesquisa booleana, usando os operadores "NOT" e "-", permite excluir certas palavras ou termos da sua consulta de busca para refinar os resultados e obter informações mais relevantes.
 
   - Operador "NOT": É usado para excluir palavras específicas dos resultados da pesquisa. Quando você usa o "NOT" antes de uma palavra ou termo, está instruindo o mecanismo de busca a ignorar resultados que contenham essa palavra. Por exemplo:
