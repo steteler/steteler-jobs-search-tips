@@ -94,9 +94,9 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- FILTROS DE SITES -->
 <!-- HTML -->
 <details>
-  <summary>⭐ FILTRO DE SITES ESPECÍFICOS</summary>
+  <summary>⭐ FILTRO DE DOMÍNIOS ESPECÍFICOS</summary>
   <br />
-  O filtro de site possibilita a exibição ou exclusão de informações de um site específico. Essa funcionalidade permite que você refine suas pesquisas e obtenha resultados mais relevantes e direcionados de acordo com suas necessidades.
+  O filtro de site possibilita a exibição ou exclusão de informações de um domínio específico. Essa funcionalidade permite que você refine suas pesquisas e obtenha resultados mais relevantes e direcionados de acordo com suas necessidades.
   <br />
   <br />
   Contudo, é importante ter atenção à sintaxe correta do operador de filtro suportado pelo mecanismo de pesquisa que está sendo utilizado. Cada mecanismo pode adotar sua própria variação para esse propósito, tais como <b>"site:</b>", <b>"inurl:"</b> ou <b>"domain:"</b>. Por isso, familiarizar-se com a sintaxe apropriada é essencial para aproveitar ao máximo essa funcionalidade e obter resultados precisos e pertinentes em suas pesquisas.
@@ -104,15 +104,19 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   <br />
   <ol>
     <li>
-      Operador <b>site:</b> ou <b>+site</b>: Por exemplo, ao pesquisar por <code>"benefícios do exercício físico site:saude.gov.br"</code>, o mecanismo de busca apresentará somente resultados relacionados a esse tema, mas restritos ao domínio do site do governo de saúde (saude.gov.br).
+      Operador <b>site:DominioDoSite.com</b> ou <b>+site:DominioDoSite.com</b> ~ Exemplos:
       <br />
-      <b>Retorna</b>: Os resultados estarão restritos ao domínio do site especificado.
+      <code>💪 site:saude.gov.br</code> ou <code>benefícios do exercício físico site:saude.gov.br</code>
+      <br />
+      <b>Retorna</b>: Os resultados deste tema estão limitados ao domínio que você especificou. Isso significa que você verá apenas informações relacionadas a esse domínio e nenhum outro domínio será mostrado.
     </li>
     <br />
     <li>
-      Operador <b>-site:</b>: Para excluir resultados de um site específico das pesquisas. Por exemplo, ao pesquisar por <code>"benefícios do exercício físico -site:wikipedia.org"</code>, você excluirá todos os resultados provenientes do site correspondente.
+      Operador <b>-site:DominioDoSite.com</b> ~ Exemplos:
       <br />
-      <b>Retorna</b>: Os resultados não incluirão informações provenientes do site especificado.
+      <code>💪 -site:DominioDoSite.com</code> ou <code>benefícios do exercício físico -site:DominioDoSite.com</code>
+      <br />
+      <b>Retorna</b>: Os resultados não mostrarão informações provenientes do domínio que você especificou. Eles serão obtidos de outras fontes, excluindo completamente qualquer conteúdo vinculado a esse domínio em particular.
     </li>
   </ol>
 </details>
