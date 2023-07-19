@@ -85,14 +85,23 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <details>
   <summary>⭐ FILTRO DE SITES ESPECÍFICOS</summary>
   <br />
-  Se você tem preferência por determinados sites de empregos ou de pesquisa, é possível limitar a pesquisa a esses sites específicos. Isso evita que você perca tempo navegando por diversas páginas.
+  O filtro de site na pesquisa booleana permite aprimorar os resultados de busca exibindo ou excluindo informações de um site específico. Além disso, é importante destacar que o filtro de site pode ser combinado com outros filtros, ampliando ainda mais as possibilidades de busca.
   <br />
   <br />
-  O filtro de site na pesquisa booleana é uma poderosa ferramenta que permite aprimorar os resultados de busca, exibindo informações exclusivamente de um site específico. Por exemplo, ao utilizar a pesquisa "benefícios do exercício físico site:saude.gov.br", o mecanismo de busca apresentará somente resultados relacionados a esse tema, mas restritos ao domínio do site do governo de saúde (saude.gov.br). Essa abordagem torna a pesquisa mais precisa e relevante para suas necessidades.
-
-  Além disso, é importante destacar que o filtro de site pode ser combinado com outros filtros, como o "+site" (para inclusão obrigatória) e o "-site" (para exclusão de determinado site das pesquisas). Essas combinações fornecem ainda mais controle sobre os resultados e permitem ajustar a pesquisa de acordo com suas preferências.
-  
-  Antes de realizar a busca, é recomendado verificar a sintaxe correta do operador de filtro usado pelo mecanismo de pesquisa que você está utilizando. Cada mecanismo pode ter sua própria variação, como "site:", "inurl:" ou "domain:", então é fundamental consultar a documentação específica para garantir que o filtro seja aplicado corretamente. Com essa prática, você poderá realizar pesquisas mais eficazes e encontrar informações relevantes de forma mais rápida e eficiente.
+  É importante verificar a sintaxe correta do operador de filtro suportado pelo mecanismo de pesquisa que você está utilizando. Cada mecanismo pode ter sua própria variação para esse propósito, tais como "site:", "inurl:" ou "domain:".
+  <br />
+  <br />
+  <ol>
+    <li>
+      Operador "site:" ou "+site:": Por exemplo, ao pesquisar por <code>"benefícios do exercício físico site:saude.gov.br"</code>, o mecanismo de busca apresentará somente resultados relacionados a esse tema, mas restritos ao domínio do site do governo de saúde (saude.gov.br).
+      <b>Retorno</b>: Os resultados estarão restritos ao domínio do site especificado.
+    </li>
+    <br />
+    <li>
+      Operador "-site": Para excluir resultados de um site específico das pesquisas. Por exemplo, ao pesquisar por <code>"benefícios do exercício físico -site:wikipedia.org"</code>, você excluirá todos os resultados provenientes do site correspondente.
+      <b>Retorno</b>: Os resultados não incluirão informações provenientes do site especificado.
+    </li>
+  </ol>
 </details>
 
 <!-- FILTROS DE INTERVALOS DE TEMPO -->
