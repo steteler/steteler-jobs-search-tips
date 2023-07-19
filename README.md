@@ -50,7 +50,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 
   <ol>
     <li>
-      Operador <b>AND</b> (E):
+      Operador <b>AND</b> (E) ~ Exemplos:
       <br />
       <code>🍉 <b>AND</b> 🍇</code> ou <code>melancia <b>AND</b> uva</code>
       <br />
@@ -58,7 +58,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
     </li>
     <br />
     <li>
-      Operador <b>OR</b> (OU):
+      Operador <b>OR</b> (OU) ~ Exemplos:
       <br />
       <code>🍉 <b>OR</b> 🍇</code> ou <code>melancia <b>OR</b> uva</code>
       <br />
@@ -66,7 +66,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
     </li>
     <br />
     <li>
-      Operador <b>NOT</b> (NÃO):
+      Operador <b>NOT</b> (NÃO) ~ Exemplos:
       <br />
       <code>🍉 <b>NOT</b> 🍇</code> ou <code>melancia <b>NOT</b> uva</code>
       <br />
@@ -74,7 +74,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
     </li>
     <br />
     <li>
-      Uso de parênteses para agrupar termos:
+      Uso de parênteses para agrupar termos ~ Exemplos:
       <br />
       <code>🍉 <b>AND</b> <b>(</b>🍇 <b>OR</b> 🍌<b>)</b></code> ou <code>melancia <b>AND</b> <b>(</b>uva <b>OR</b> banana<b>)</b></code>
       <br />
@@ -82,7 +82,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
     </li>
     <br />
     <li>
-      Combinação de operadores:
+      Combinação de operadores ~ Exemplos:
       <br />
       <code><b>(</b>🍉 <b>OR</b> 🍅<b>)</b> <b>AND</b> <b>(</b>🍇 <b>OR</b> 🍌<b>)</b></code> ou <code><b>(</b>melancia <b>OR</b> tomate<b>)</b> <b>AND</b> <b>(</b>uva <b>OR</b> banana<b>)</b></code>
       <br />
