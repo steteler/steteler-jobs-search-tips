@@ -114,7 +114,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
     <li>
       Operador <b>-site:DominioDoSite.com</b> ~ Exemplos:
       <br />
-      <code>💪 -site:DominioDoSite.com</code> ou <code>benefícios do exercício físico -site:DominioDoSite.com</code>
+      <code>💪 -site:saude.gov.br</code> ou <code>benefícios do exercício físico -site:saude.gov.br</code>
       <br />
       <b>Retorna</b>: Os resultados não mostrarão informações provenientes do domínio que você especificou. Eles serão obtidos de outras fontes, excluindo completamente qualquer conteúdo vinculado a esse domínio em particular.
     </li>
