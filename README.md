@@ -181,40 +181,26 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <details>
   <summary>⭐ FILTRO DE PALAVRAS OBRIGATÓRIAS [100% ✔️]</summary>
   <br />
-  O filtro de palavras obrigatórias é realizado usando os operadores "<b>AND</b>" e "<b>+</b>". Esses operadores permitem que você especifique palavras ou termos que devem estar presentes em todos os resultados da pesquisa, tornando-a mais precisa e focada.
-  <br />
-  <br />
-  A principal diferença entre o "<b>AND</b>" e o "<b>+</b>" é que o "<b>AND</b>" geralmente é suportado por mecanismos de busca avançados que permitem consultas booleanas completas, enquanto o "<b>+</b>" é mais comum em mecanismos de busca mais simples, como os encontrados em mecanismos de busca de sites específicos.
-  <br />
-  <br />
 
-  <ol>
-    <li>
-      Operador "<b>AND</b>" (E) ~ Exemplos:
-      <br />
-      Exemplo 1: <code>🧠 AND 🤖</code>
-      <br />
-      <b>Retorna</b>: Os resultados relacionados à "🧠" e que também mencionem a palavra "🤖".
-      <br />
-      <br />
-      Exemplo 2: <code>Inteligência Artificial AND robôs</code>
-      <br />
-      <b>Retorna</b>: Os resultados relacionados à "inteligência artificial" e que também mencionem a palavra "robôs".
-    </li>
-    <br />
-    <li>
-      Operador "<b>+</b>" (mais) ~ Exemplos:
-      <br />
-      Exemplo 1: <code>👨‍💻 +💡</code>
-      <br />
-      <b>Retorna</b>: Os resultados relacionados à "👨‍💻" e que também mencionem a palavra "💡".
-      <br />
-      <br />
-      Exemplo 2: <code>tecnologia +inovação</code>
-      <br />
-      <b>Retorna</b>: Os resultados relacionados à "tecnologia" que também mencionem a palavra "inovação".
-    </li>
-  </ol>
+  O filtro de palavras obrigatórias é realizado usando os operadores "**AND**" e "**+**". Esses operadores permitem que você especifique palavras ou termos que devem estar presentes em todos os resultados da pesquisa, tornando-a mais precisa e focada.
+  
+  A principal diferença entre o "**AND**" e o "**+**" é que o "**AND**" geralmente é suportado por mecanismos de busca avançados que permitem consultas booleanas completas, enquanto o "**+**" é mais comum em mecanismos de busca mais simples, como os encontrados em mecanismos de busca de sites específicos.
+
+
+**OPERADOR AND (E)**
+
+* Exemplo 1: `🧠 AND 🤖`
+    * **Retorna**: Os resultados relacionados à "🧠" e que também mencionem a palavra "🤖".
+* Exemplo 2: `Inteligência Artificial AND robôs`
+    * **Retorna**: Os resultados relacionados à "inteligência artificial" e que também mencionem a palavra "robôs".
+
+**OPERADOR + (mais)**
+
+* Exemplo 1: `👨‍💻 +💡`
+    * **Retorna**: Os resultados relacionados à "👨‍💻" e que também mencionem a palavra "💡".
+* Exemplo 2: `tecnologia +inovação`
+    * **Retorna**: Os resultados relacionados à "tecnologia" que também mencionem a palavra "inovação".
+
 </details>
 
 <!-- LINKEDIN CÓDIGO E SITE -->
