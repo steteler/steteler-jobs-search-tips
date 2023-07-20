@@ -48,40 +48,40 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 
   O filtro de operadores lógicos, como <b>"AND"</b>, <b>"OR"</b> e <b>"NOT"</b>, permite combinar palavras-chave e obter resultados mais precisos. Esses operadores são valiosos para refinar pesquisas e restringir os resultados de acordo com critérios específicos.
 
-## AND (E)
-
-* Exemplo 1: `🍉 AND 🍇`
-    * Retorna: Resultados que contenham ambas as palavras "🍉" e "🍇".
-* Exemplo 2: `melancia AND uva`
-    * Retorna: Resultados que contenham ambas as palavras "melancia" e "uva".
-
-## OR (OU)
-
-* Exemplo 1: `🍉 OR 🍇`
-    * Retorna: Resultados que contenham qualquer uma das palavras "🍉" ou "🍇", ou ambas.
-* Exemplo 2: `melancia OR uva`
-    * Retorna: Resultados que contenham qualquer uma das palavras "melancia" ou "uva", ou ambas.
-
-## NOT (NÃO)
-
-* Exemplo 1: `🍉 NOT 🍇`
-    * Retorna: Resultados que contenham "🍉", mas excluindo aquelas que também mencionam "🍇".
-* Exemplo 2: `melancia NOT uva`
-    * Retorna: Resultados que contenham "melancia", mas excluindo aquelas que também mencionam "uva".
-
-## Uso de parênteses para agrupar termos
-
-* Exemplo 1: `🍉 AND (🍇 OR 🍌)`
-    * Retorna: Resultados que contenham "🍉" e, em seguida, qualquer uma das palavras "🍇" ou "🍌".
-* Exemplo 2: `melancia AND (uva OR banana)`
-    * Retorna: Resultados que contenham "melancia" e, em seguida, qualquer uma das palavras "uva" ou "banana".
-
-## Combinação de operadores
-
-* Exemplo 1: `(🍉 OR 🍅) AND (🍇 OR 🍌)`
-    * Retorna: Resultados que contenham "🍉" ou "🍅" e também "🍇" ou "🍌".
-* Exemplo 2: `(melancia OR tomate) AND (uva OR banana)`
-    * Retorna: Resultados que contenham "melancia" ou "tomate" e também "uva" ou "banana".
+  ## AND (E)
+  
+  * Exemplo 1: `🍉 AND 🍇`
+      * Retorna: Resultados que contenham ambas as palavras "🍉" e "🍇".
+  * Exemplo 2: `melancia AND uva`
+      * Retorna: Resultados que contenham ambas as palavras "melancia" e "uva".
+  
+  ## OR (OU)
+  
+  * Exemplo 1: `🍉 OR 🍇`
+      * Retorna: Resultados que contenham qualquer uma das palavras "🍉" ou "🍇", ou ambas.
+  * Exemplo 2: `melancia OR uva`
+      * Retorna: Resultados que contenham qualquer uma das palavras "melancia" ou "uva", ou ambas.
+  
+  ## NOT (NÃO)
+  
+  * Exemplo 1: `🍉 NOT 🍇`
+      * Retorna: Resultados que contenham "🍉", mas excluindo aquelas que também mencionam "🍇".
+  * Exemplo 2: `melancia NOT uva`
+      * Retorna: Resultados que contenham "melancia", mas excluindo aquelas que também mencionam "uva".
+  
+  ## Uso de parênteses para agrupar termos
+  
+  * Exemplo 1: `🍉 AND (🍇 OR 🍌)`
+      * Retorna: Resultados que contenham "🍉" e, em seguida, qualquer uma das palavras "🍇" ou "🍌".
+  * Exemplo 2: `melancia AND (uva OR banana)`
+      * Retorna: Resultados que contenham "melancia" e, em seguida, qualquer uma das palavras "uva" ou "banana".
+  
+  ## Combinação de operadores
+  
+  * Exemplo 1: `(🍉 OR 🍅) AND (🍇 OR 🍌)`
+      * Retorna: Resultados que contenham "🍉" ou "🍅" e também "🍇" ou "🍌".
+  * Exemplo 2: `(melancia OR tomate) AND (uva OR banana)`
+      * Retorna: Resultados que contenham "melancia" ou "tomate" e também "uva" ou "banana".
 
 </details>
 
@@ -91,28 +91,23 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   <summary>⭐ FILTRO DE DOMÍNIOS ESPECÍFICOS [100% ✔️]</summary>
   <br />
   O filtro de site possibilita a exibição ou exclusão de informações de um domínio específico. Essa funcionalidade permite que você refine suas pesquisas e obtenha resultados mais relevantes e direcionados de acordo com suas necessidades.
-  <br />
-  <br />
-  Contudo, é importante ter atenção à sintaxe correta do operador de filtro suportado pelo mecanismo de pesquisa que está sendo utilizado. Cada mecanismo pode adotar sua própria variação para esse propósito, tais como <b>"site:</b>", <b>"inurl:"</b> ou <b>"domain:"</b>. Por isso, familiarizar-se com a sintaxe apropriada é essencial para aproveitar ao máximo essa funcionalidade e obter resultados precisos e pertinentes em suas pesquisas.
-  <br />
-  <br />
-  <ol>
-    <li>
-      Operador <b>site:DominioDoSite.com</b> ou <b>+site:DominioDoSite.com</b> ~ Exemplos:
-      <br />
-      <code>💪 site:saude.gov.br</code> ou <code>benefícios do exercício físico site:saude.gov.br</code>
-      <br />
-      <b>Retorna</b>: Os resultados deste tema estão limitados ao domínio que você especificou. Isso significa que você verá apenas informações relacionadas a esse domínio e nenhum outro domínio será mostrado.
-    </li>
-    <br />
-    <li>
-      Operador <b>-site:DominioDoSite.com</b> ~ Exemplos:
-      <br />
-      <code>💪 -site:saude.gov.br</code> ou <code>benefícios do exercício físico -site:saude.gov.br</code>
-      <br />
-      <b>Retorna</b>: Os resultados não mostrarão informações provenientes do domínio que você especificou. Eles serão obtidos de outras fontes, excluindo completamente qualquer conteúdo vinculado a esse domínio em particular.
-    </li>
-  </ol>
+
+  Contudo, é importante ter atenção à sintaxe correta do operador de filtro suportado pelo mecanismo de pesquisa que está sendo utilizado. Cada mecanismo pode adotar sua própria variação para esse propósito, tais como "**site:**", "**inurl:**" ou "**domain:**". Por isso, familiarizar-se com a sintaxe apropriada é essencial para aproveitar ao máximo essa funcionalidade e obter resultados precisos e pertinentes em suas pesquisas.
+  
+  ## site:DominioDoSite.com ou +site:DominioDoSite.com
+
+  * Exemplo 1: `💪 site:saude.gov.br`
+      * Retorna: Os resultados deste tema estão limitados ao domínio que você especificou. Isso significa que você verá apenas informações relacionadas a esse domínio e nenhum outro domínio será mostrado.
+  * Exemplo 2: `benefícios do exercício físico site:saude.gov.br`
+      * Retorna: Os resultados deste tema estão limitados ao domínio que você especificou. Isso significa que você verá apenas informações relacionadas a esse domínio e nenhum outro domínio será mostrado.
+  
+  ## -site:DominioDoSite.com
+
+  * Exemplo 1: `💪 -site:saude.gov.br`
+      * Retorna: Os resultados não mostrarão informações provenientes do domínio que você especificou. Eles serão obtidos de outras fontes, excluindo completamente qualquer conteúdo vinculado a esse domínio em particular.
+  * Exemplo 2: `benefícios do exercício físico -site:saude.gov.br`
+      * Retorna: Os resultados não mostrarão informações provenientes do domínio que você especificou. Eles serão obtidos de outras fontes, excluindo completamente qualquer conteúdo vinculado a esse domínio em particular.
+
 </details>
 
 <!-- FILTROS DE INTERVALOS DE TEMPO -->
