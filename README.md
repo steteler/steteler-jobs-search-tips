@@ -179,18 +179,32 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- FILTRO PALAVRAS OBRIGATÓRIAS -->
 <!-- HTML -->
 <details>
-  <summary>⭐ FILTRO DE PALAVRAS OBRIGATÓRIAS [50% ⚠️]</summary>
+  <summary>⭐ FILTRO DE PALAVRAS OBRIGATÓRIAS [80% ⚠️]</summary>
   <br />
-  O filtro de palavras obrigatórias na pesquisa booleana é realizado usando os operadores "AND" e "+". Esses operadores permitem que você especifique palavras ou termos que devem estar presentes em todos os resultados da pesquisa, tornando-a mais precisa e focada.
+  O filtro de palavras obrigatórias é realizado usando os operadores "<b>AND</b>" e "<b>+</b>". Esses operadores permitem que você especifique palavras ou termos que devem estar presentes em todos os resultados da pesquisa, tornando-a mais precisa e focada.
+  <br />
+  <br />
+  A principal diferença entre o "<b>AND</b>" e o "<b>+</b>" é que o "<b>AND</b>" geralmente é suportado por mecanismos de busca avançados que permitem consultas booleanas completas, enquanto o "<b>+</b>" é mais comum em mecanismos de busca mais simples, como os encontrados em mecanismos de busca de sites específicos.
+  <br />
+  <br />
 
-  - O operador "AND" é usado para encontrar resultados que contenham todas as palavras especificadas na pesquisa. Quando você usa o "AND" entre palavras ou termos, está instruindo o mecanismo de busca a retornar apenas resultados que incluam todas as palavras mencionadas. Por exemplo: Pesquisa: "Inteligência Artificial AND robôs"
-  Resultados: Esta pesquisa retornará páginas relacionadas à inteligência artificial e que também mencionem a palavra "robôs".
-
-  - O operador "+" também é usado para exigir que uma palavra ou termo específico esteja presente nos resultados da pesquisa. É muito semelhante ao "AND" e, em muitos mecanismos de busca, pode ser usado de forma intercambiável. Por exemplo:
-  Pesquisa: "Tecnologia +inovação"
-  Resultados: Esta pesquisa retornará informações sobre tecnologia que também mencionem a palavra "inovação".
-
-  - A principal diferença entre o "AND" e o "+" é que o "AND" geralmente é suportado por mecanismos de busca avançados que permitem consultas booleanas completas, enquanto o "+" é mais comum em mecanismos de busca mais simples, como os encontrados em mecanismos de busca de sites específicos.
+  <ol>
+    <li>
+      Operador AND (E) ~ Exemplos:
+      <br />
+      <code>Inteligência Artificial AND robôs</code>
+      <br />
+      Retorna: Os resultados relacionados à inteligência artificial e que também mencionem a palavra "robôs".
+    </li>
+    <br />
+    <li>
+      Operador + (mais) ~ Exemplos:
+      <br />
+      <code>Tecnologia +inovação</code>
+      <br />
+      Retorna: Os resultados relacionados à tecnologia que também mencionem a palavra "inovação".
+    </li>
+  </ol>
 </details>
 
 <!-- LINKEDIN CÓDIGO E SITE -->
