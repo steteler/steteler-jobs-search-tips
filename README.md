@@ -45,6 +45,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <details>
   <summary>⭐ FILTRO DE OPERADORES LÓGICOS [100% ✔️]</summary>
   <br />
+  <br />
 
 <!-- MARKDOWN -->
   O filtro de operadores lógicos, como "**AND**", "**OR**" e "**NOT**", permite combinar palavras-chave e obter resultados mais precisos. Esses operadores são valiosos para refinar pesquisas e restringir os resultados de acordo com critérios específicos.
@@ -84,12 +85,14 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   * Exemplo 2: `(melancia OR tomate) AND (uva OR banana)`
       * **Retorna**: Resultados que contenham "melancia" ou "tomate" e também "uva" ou "banana".
 
+  <br />
 </details>
 
 <!-- FILTROS DE DOMÍNIOS -->
 <!-- HTML -->
 <details>
   <summary>⭐ FILTRO DE DOMÍNIOS ESPECÍFICOS [100% ✔️]</summary>
+  <br />
   <br />
 
 <!-- MARKDOWN -->
@@ -110,6 +113,8 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
       * **Retorna**: Os resultados não mostrarão informações provenientes do domínio que você especificou. Eles serão obtidos de outras fontes, excluindo completamente qualquer conteúdo vinculado a esse domínio em particular.
   * Exemplo 2: `benefícios do exercício físico -site:saude.gov.br`
       * **Retorna**: Os resultados não mostrarão informações provenientes do domínio que você especificou. Eles serão obtidos de outras fontes, excluindo completamente qualquer conteúdo vinculado a esse domínio em particular.
+
+  <br />
 </details>
 
 <!-- FILTROS DE INTERVALOS DE TEMPO -->
@@ -117,6 +122,8 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <details>
   <summary>⭐ FILTRO DE INTERVALOS DE TEMPO [50% ⚠️]</summary>
   <br />
+  <br />
+
   Caso queira visualizar apenas resultados recentes, pode utilizar filtros de tempo para delimitar a pesquisa a um período específico, como "últimos 6 meses" ou "último ano".
   <br />
   <br />
@@ -147,6 +154,8 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   Essa pesquisa retornará informações sobre futebol, mas apenas no site "esporte.com" e restritas ao ano de 2021.
   
   Lembre-se de que é importante utilizar o formato correto da data, conforme o padrão do mecanismo de pesquisa que você está usando. Além disso, nem todos os mecanismos de pesquisa suportam esse tipo de filtro, portanto, verifique a documentação específica do mecanismo de busca para garantir que o recurso esteja disponível e para entender a sintaxe correta a ser usada. Com o filtro de intervalo de tempo, você pode refinar sua pesquisa e obter resultados mais relevantes e atualizados.
+
+  <br />
 </details>
 
 <!-- FILTRO PALAVRAS INDESEJADAS -->
@@ -154,6 +163,8 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <details>
   <summary>⭐ FILTRO DE PALAVRAS INDESEJADAS [50% ⚠️]</summary>
   <br />
+  <br />
+
   O filtro de palavras indesejadas na pesquisa booleana, usando os operadores "NOT" e "-", permite excluir certas palavras ou termos da sua consulta de busca para refinar os resultados e obter informações mais relevantes.
 
   - Operador "NOT": É usado para excluir palavras específicas dos resultados da pesquisa. Quando você usa o "NOT" antes de uma palavra ou termo, está instruindo o mecanismo de busca a ignorar resultados que contenham essa palavra. Por exemplo:
@@ -165,12 +176,15 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   Resultados: Esta pesquisa retornará informações sobre viagens, mas não incluirá resultados que mencionem a palavra "praia".
   
   - A principal diferença entre o "NOT" e o "-" é que o "NOT" geralmente é suportado por mecanismos de busca avançados que permitem consultas booleanas completas, enquanto o "-" é mais comum em mecanismos de busca mais simples, como os encontrados em mecanismos de busca de sites específicos.
+
+  <br />
 </details>
 
 <!-- FILTRO PALAVRAS OBRIGATÓRIAS -->
 <!-- HTML -->
 <details>
   <summary>⭐ FILTRO DE PALAVRAS OBRIGATÓRIAS [100% ✔️]</summary>
+  <br />
   <br />
 
 <!-- MARKDOWN -->
@@ -191,6 +205,8 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
     * **Retorna**: Os resultados relacionados à "👨‍💻" e que também mencionem a palavra "💡".
 * Exemplo 2: `tecnologia +inovação`
     * **Retorna**: Os resultados relacionados à "tecnologia" que também mencionem a palavra "inovação".
+
+  <br />
 </details>
 
 <!-- LINKEDIN CÓDIGO E SITE -->
