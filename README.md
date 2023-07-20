@@ -25,7 +25,7 @@ Eu escolhi combinar códigos em markdown e html, pois eles se complementam mutua
 </div>
 
 <!-- AVISOS -->
-<!-- MARKDOWN -->
+<!-- MARKDOWN / HTML -->
 ### 🚨 Este repositório está em constante evolução, sempre recebendo atualizações para melhorar seu conteúdo. Para garantir que você não perca nenhuma delas, fique de olho no tópico <a href="#acompanhe-as-atualizações">"ACOMPANHE AS ATUALIZAÇÕES"!</a> Além disso, em breve, adicionarei scripts que irão aprimorar ainda mais a sua experiência de busca. Mantenha-se atualizado e aproveite ao máximo todo o potencial deste repositório!
 
 <!-- APRESENTAÇÃO -->
@@ -38,7 +38,7 @@ A pesquisa booleana é uma poderosa aliada não apenas para encontrar empregos, 
 <!-- COMO FUNCIONA -->
 <!-- MARKDOWN -->
 ## Como funciona?
-A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores booleanos, como <b>AND</b>, <b>OR</b> e <b>NOT</b>, para combinar palavras-chave e refinar os resultados. Essa abordagem possibilita tornar suas pesquisas mais precisas, permitindo que você ignore resultados que não correspondam exatamente ao que está procurando. A flexibilidade dessa técnica permite combinar diversos filtros, ampliando as possibilidades de busca e permitindo a personalização das informações desejadas. É uma ferramenta fundamental para aprimorar a eficácia das buscas na internet.
+A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores booleanos, como **AND**, **OR** e **NOT**, para combinar palavras-chave e refinar os resultados. Essa abordagem possibilita tornar suas pesquisas mais precisas, permitindo que você ignore resultados que não correspondam exatamente ao que está procurando. A flexibilidade dessa técnica permite combinar diversos filtros, ampliando as possibilidades de busca e permitindo a personalização das informações desejadas. É uma ferramenta fundamental para aprimorar a eficácia das buscas na internet.
 
 <!-- FILTROS LÓGICOS -->
 <!-- HTML -->
@@ -46,50 +46,53 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   <summary>⭐ FILTRO DE OPERADORES LÓGICOS [100% ✔️]</summary>
   <br />
 
-  O filtro de operadores lógicos, como <b>"AND"</b>, <b>"OR"</b> e <b>"NOT"</b>, permite combinar palavras-chave e obter resultados mais precisos. Esses operadores são valiosos para refinar pesquisas e restringir os resultados de acordo com critérios específicos.
+<!-- MARKDOWN -->
+  O filtro de operadores lógicos, como "**AND**", "**OR**" e "**NOT**", permite combinar palavras-chave e obter resultados mais precisos. Esses operadores são valiosos para refinar pesquisas e restringir os resultados de acordo com critérios específicos.
 
-  ## AND (E)
+  ### AND (E)
   
   * Exemplo 1: `🍉 AND 🍇`
-      * Retorna: Resultados que contenham ambas as palavras "🍉" e "🍇".
+      * **Retorna**: Resultados que contenham ambas as palavras "🍉" e "🍇".
   * Exemplo 2: `melancia AND uva`
-      * Retorna: Resultados que contenham ambas as palavras "melancia" e "uva".
+      * **Retorna**: Resultados que contenham ambas as palavras "melancia" e "uva".
   
-  ## OR (OU)
+  ### OR (OU)
   
   * Exemplo 1: `🍉 OR 🍇`
-      * Retorna: Resultados que contenham qualquer uma das palavras "🍉" ou "🍇", ou ambas.
+      * **Retorna**: Resultados que contenham qualquer uma das palavras "🍉" ou "🍇", ou ambas.
   * Exemplo 2: `melancia OR uva`
-      * Retorna: Resultados que contenham qualquer uma das palavras "melancia" ou "uva", ou ambas.
+      * **Retorna**: Resultados que contenham qualquer uma das palavras "melancia" ou "uva", ou ambas.
   
-  ## NOT (NÃO)
+  ### NOT (NÃO)
   
   * Exemplo 1: `🍉 NOT 🍇`
-      * Retorna: Resultados que contenham "🍉", mas excluindo aquelas que também mencionam "🍇".
+      * **Retorna**: Resultados que contenham "🍉", mas excluindo aquelas que também mencionam "🍇".
   * Exemplo 2: `melancia NOT uva`
-      * Retorna: Resultados que contenham "melancia", mas excluindo aquelas que também mencionam "uva".
+      * **Retorna**: Resultados que contenham "melancia", mas excluindo aquelas que também mencionam "uva".
   
-  ## Uso de parênteses para agrupar termos
+  ### Uso de parênteses para agrupar termos
   
   * Exemplo 1: `🍉 AND (🍇 OR 🍌)`
-      * Retorna: Resultados que contenham "🍉" e, em seguida, qualquer uma das palavras "🍇" ou "🍌".
+      * **Retorna**: Resultados que contenham "🍉" e, em seguida, qualquer uma das palavras "🍇" ou "🍌".
   * Exemplo 2: `melancia AND (uva OR banana)`
-      * Retorna: Resultados que contenham "melancia" e, em seguida, qualquer uma das palavras "uva" ou "banana".
+      * **Retorna**: Resultados que contenham "melancia" e, em seguida, qualquer uma das palavras "uva" ou "banana".
   
-  ## Combinação de operadores
+  ### Combinação de operadores
   
   * Exemplo 1: `(🍉 OR 🍅) AND (🍇 OR 🍌)`
-      * Retorna: Resultados que contenham "🍉" ou "🍅" e também "🍇" ou "🍌".
+      * **Retorna**: Resultados que contenham "🍉" ou "🍅" e também "🍇" ou "🍌".
   * Exemplo 2: `(melancia OR tomate) AND (uva OR banana)`
-      * Retorna: Resultados que contenham "melancia" ou "tomate" e também "uva" ou "banana".
+      * **Retorna**: Resultados que contenham "melancia" ou "tomate" e também "uva" ou "banana".
 
 </details>
 
-<!-- FILTROS DE SITES -->
+<!-- FILTROS DE DOMÍNIOS -->
 <!-- HTML -->
 <details>
   <summary>⭐ FILTRO DE DOMÍNIOS ESPECÍFICOS [100% ✔️]</summary>
   <br />
+
+<!-- MARKDOWN -->
   O filtro de site possibilita a exibição ou exclusão de informações de um domínio específico. Essa funcionalidade permite que você refine suas pesquisas e obtenha resultados mais relevantes e direcionados de acordo com suas necessidades.
 
   Contudo, é importante ter atenção à sintaxe correta do operador de filtro suportado pelo mecanismo de pesquisa que está sendo utilizado. Cada mecanismo pode adotar sua própria variação para esse propósito, tais como "**site:**", "**inurl:**" ou "**domain:**". Por isso, familiarizar-se com a sintaxe apropriada é essencial para aproveitar ao máximo essa funcionalidade e obter resultados precisos e pertinentes em suas pesquisas.
@@ -97,17 +100,16 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   ## site:DominioDoSite.com ou +site:DominioDoSite.com
 
   * Exemplo 1: `💪 site:saude.gov.br`
-      * Retorna: Os resultados deste tema estão limitados ao domínio que você especificou. Isso significa que você verá apenas informações relacionadas a esse domínio e nenhum outro domínio será mostrado.
+      * **Retorna**: Os resultados deste tema estão limitados ao domínio que você especificou. Isso significa que você verá apenas informações relacionadas a esse domínio e nenhum outro domínio será mostrado.
   * Exemplo 2: `benefícios do exercício físico site:saude.gov.br`
-      * Retorna: Os resultados deste tema estão limitados ao domínio que você especificou. Isso significa que você verá apenas informações relacionadas a esse domínio e nenhum outro domínio será mostrado.
+      * **Retorna**: Os resultados deste tema estão limitados ao domínio que você especificou. Isso significa que você verá apenas informações relacionadas a esse domínio e nenhum outro domínio será mostrado.
   
   ## -site:DominioDoSite.com
 
   * Exemplo 1: `💪 -site:saude.gov.br`
-      * Retorna: Os resultados não mostrarão informações provenientes do domínio que você especificou. Eles serão obtidos de outras fontes, excluindo completamente qualquer conteúdo vinculado a esse domínio em particular.
+      * **Retorna**: Os resultados não mostrarão informações provenientes do domínio que você especificou. Eles serão obtidos de outras fontes, excluindo completamente qualquer conteúdo vinculado a esse domínio em particular.
   * Exemplo 2: `benefícios do exercício físico -site:saude.gov.br`
-      * Retorna: Os resultados não mostrarão informações provenientes do domínio que você especificou. Eles serão obtidos de outras fontes, excluindo completamente qualquer conteúdo vinculado a esse domínio em particular.
-
+      * **Retorna**: Os resultados não mostrarão informações provenientes do domínio que você especificou. Eles serão obtidos de outras fontes, excluindo completamente qualquer conteúdo vinculado a esse domínio em particular.
 </details>
 
 <!-- FILTROS DE INTERVALOS DE TEMPO -->
@@ -171,10 +173,10 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   <summary>⭐ FILTRO DE PALAVRAS OBRIGATÓRIAS [100% ✔️]</summary>
   <br />
 
+<!-- MARKDOWN -->
   O filtro de palavras obrigatórias é realizado usando os operadores "**AND**" e "**+**". Esses operadores permitem que você especifique palavras ou termos que devem estar presentes em todos os resultados da pesquisa, tornando-a mais precisa e focada.
   
   A principal diferença entre o "**AND**" e o "**+**" é que o "**AND**" geralmente é suportado por mecanismos de busca avançados que permitem consultas booleanas completas, enquanto o "**+**" é mais comum em mecanismos de busca mais simples, como os encontrados em mecanismos de busca de sites específicos.
-
 
 ## OPERADOR AND (E)
 
@@ -189,7 +191,6 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
     * **Retorna**: Os resultados relacionados à "👨‍💻" e que também mencionem a palavra "💡".
 * Exemplo 2: `tecnologia +inovação`
     * **Retorna**: Os resultados relacionados à "tecnologia" que também mencionem a palavra "inovação".
-
 </details>
 
 <!-- LINKEDIN CÓDIGO E SITE -->
