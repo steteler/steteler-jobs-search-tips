@@ -179,7 +179,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- FILTRO PALAVRAS OBRIGATÓRIAS -->
 <!-- HTML -->
 <details>
-  <summary>⭐ FILTRO DE PALAVRAS OBRIGATÓRIAS [80% ⚠️]</summary>
+  <summary>⭐ FILTRO DE PALAVRAS OBRIGATÓRIAS [100% ✔️]</summary>
   <br />
   O filtro de palavras obrigatórias é realizado usando os operadores "<b>AND</b>" e "<b>+</b>". Esses operadores permitem que você especifique palavras ou termos que devem estar presentes em todos os resultados da pesquisa, tornando-a mais precisa e focada.
   <br />
@@ -190,19 +190,29 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 
   <ol>
     <li>
-      Operador AND (E) ~ Exemplos:
+      Operador "<b>AND</b>" (E) ~ Exemplos:
       <br />
-      <code>Inteligência Artificial AND robôs</code>
+      Exemplo 1: <code>🧠 AND 🤖</code>
       <br />
-      Retorna: Os resultados relacionados à inteligência artificial e que também mencionem a palavra "robôs".
+      <b>Retorna</b>: Os resultados relacionados à "🧠" e que também mencionem a palavra "🤖".
+      <br />
+      <br />
+      Exemplo 2: <code>Inteligência Artificial AND robôs</code>
+      <br />
+      <b>Retorna</b>: Os resultados relacionados à "inteligência artificial" e que também mencionem a palavra "robôs".
     </li>
     <br />
     <li>
-      Operador + (mais) ~ Exemplos:
+      Operador "<b>+</b>" (mais) ~ Exemplos:
       <br />
-      <code>Tecnologia +inovação</code>
+      Exemplo 1: <code>👨‍💻 +💡</code>
       <br />
-      Retorna: Os resultados relacionados à tecnologia que também mencionem a palavra "inovação".
+      <b>Retorna</b>: Os resultados relacionados à "👨‍💻" e que também mencionem a palavra "💡".
+      <br />
+      <br />
+      Exemplo 2: <code>tecnologia +inovação</code>
+      <br />
+      <b>Retorna</b>: Os resultados relacionados à "tecnologia" que também mencionem a palavra "inovação".
     </li>
   </ol>
 </details>
