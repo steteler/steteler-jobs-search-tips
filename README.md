@@ -97,14 +97,14 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 
   Contudo, é importante ter atenção à sintaxe correta do operador de filtro suportado pelo mecanismo de pesquisa que está sendo utilizado. Cada mecanismo pode adotar sua própria variação para esse propósito, tais como "**site:**", "**inurl:**" ou "**domain:**". Por isso, familiarizar-se com a sintaxe apropriada é essencial para aproveitar ao máximo essa funcionalidade e obter resultados precisos e pertinentes em suas pesquisas.
   
-  ## site:DominioDoSite.com ou +site:DominioDoSite.com
+  ### site:DominioDoSite.com ou +site:DominioDoSite.com
 
   * Exemplo 1: `💪 site:saude.gov.br`
       * **Retorna**: Os resultados deste tema estão limitados ao domínio que você especificou. Isso significa que você verá apenas informações relacionadas a esse domínio e nenhum outro domínio será mostrado.
   * Exemplo 2: `benefícios do exercício físico site:saude.gov.br`
       * **Retorna**: Os resultados deste tema estão limitados ao domínio que você especificou. Isso significa que você verá apenas informações relacionadas a esse domínio e nenhum outro domínio será mostrado.
   
-  ## -site:DominioDoSite.com
+  ### -site:DominioDoSite.com
 
   * Exemplo 1: `💪 -site:saude.gov.br`
       * **Retorna**: Os resultados não mostrarão informações provenientes do domínio que você especificou. Eles serão obtidos de outras fontes, excluindo completamente qualquer conteúdo vinculado a esse domínio em particular.
@@ -178,14 +178,14 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   
   A principal diferença entre o "**AND**" e o "**+**" é que o "**AND**" geralmente é suportado por mecanismos de busca avançados que permitem consultas booleanas completas, enquanto o "**+**" é mais comum em mecanismos de busca mais simples, como os encontrados em mecanismos de busca de sites específicos.
 
-## OPERADOR AND (E)
+### OPERADOR AND (E)
 
 * Exemplo 1: `🧠 AND 🤖`
     * **Retorna**: Os resultados relacionados à "🧠" e que também mencionem a palavra "🤖".
 * Exemplo 2: `Inteligência Artificial AND robôs`
     * **Retorna**: Os resultados relacionados à "inteligência artificial" e que também mencionem a palavra "robôs".
 
-## OPERADOR + (mais)
+### OPERADOR + (mais)
 
 * Exemplo 1: `👨‍💻 +💡`
     * **Retorna**: Os resultados relacionados à "👨‍💻" e que também mencionem a palavra "💡".
