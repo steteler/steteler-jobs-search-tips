@@ -49,28 +49,28 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- MARKDOWN -->
   O filtro de operadores lógicos, como "**AND**", "**OR**" e "**NOT**", permite combinar palavras-chave e obter resultados mais precisos. Esses operadores são valiosos para refinar pesquisas e restringir os resultados de acordo com critérios específicos.
 
-  ### AND (E)
+  ### OPERADOR AND (E)
   
   * Exemplo 1: `🍉 AND 🍇`
       * **Retorna**: Resultados que contenham ambas as palavras "🍉" e "🍇".
   * Exemplo 2: `melancia AND uva`
       * **Retorna**: Resultados que contenham ambas as palavras "melancia" e "uva".
   
-  ### OR (OU)
+  ### OPERADOR OR (OU)
   
   * Exemplo 1: `🍉 OR 🍇`
       * **Retorna**: Resultados que contenham qualquer uma das palavras "🍉" ou "🍇", ou ambas.
   * Exemplo 2: `melancia OR uva`
       * **Retorna**: Resultados que contenham qualquer uma das palavras "melancia" ou "uva", ou ambas.
   
-  ### NOT (NÃO)
+  ### OPERADOR NOT (NÃO)
   
   * Exemplo 1: `🍉 NOT 🍇`
       * **Retorna**: Resultados que contenham "🍉", mas excluindo aquelas que também mencionam "🍇".
   * Exemplo 2: `melancia NOT uva`
       * **Retorna**: Resultados que contenham "melancia", mas excluindo aquelas que também mencionam "uva".
   
-  ### Uso de parênteses para agrupar termos
+  ### Uso de parênteses para agrupar termos ou filtros
   
   * Exemplo 1: `🍉 AND (🍇 OR 🍌)`
       * **Retorna**: Resultados que contenham "🍉" e, em seguida, qualquer uma das palavras "🍇" ou "🍌".
@@ -97,14 +97,14 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 
   Contudo, é importante ter atenção à sintaxe correta do operador de filtro suportado pelo mecanismo de pesquisa que está sendo utilizado. Cada mecanismo pode adotar sua própria variação para esse propósito, tais como "**site:**", "**inurl:**" ou "**domain:**". Por isso, familiarizar-se com a sintaxe apropriada é essencial para aproveitar ao máximo essa funcionalidade e obter resultados precisos e pertinentes em suas pesquisas.
   
-  ### site:DominioDoSite.com ou +site:DominioDoSite.com
+  ### OPERADOR site:DominioDoSite.com ou +site:DominioDoSite.com
 
   * Exemplo 1: `💪 site:saude.gov.br`
       * **Retorna**: Os resultados deste tema estão limitados ao domínio que você especificou. Isso significa que você verá apenas informações relacionadas a esse domínio e nenhum outro domínio será mostrado.
   * Exemplo 2: `benefícios do exercício físico site:saude.gov.br`
       * **Retorna**: Os resultados deste tema estão limitados ao domínio que você especificou. Isso significa que você verá apenas informações relacionadas a esse domínio e nenhum outro domínio será mostrado.
   
-  ### -site:DominioDoSite.com
+  ### OPERADOR -site:DominioDoSite.com
 
   * Exemplo 1: `💪 -site:saude.gov.br`
       * **Retorna**: Os resultados não mostrarão informações provenientes do domínio que você especificou. Eles serão obtidos de outras fontes, excluindo completamente qualquer conteúdo vinculado a esse domínio em particular.
