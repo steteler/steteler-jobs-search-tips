@@ -48,47 +48,41 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 
   O filtro de operadores lógicos, como <b>"AND"</b>, <b>"OR"</b> e <b>"NOT"</b>, permite combinar palavras-chave e obter resultados mais precisos. Esses operadores são valiosos para refinar pesquisas e restringir os resultados de acordo com critérios específicos.
 
-  <ol>
-    <li>
-      Operador <b>AND</b> (E) ~ Exemplos:
-      <br />
-      <code>🍉 <b>AND</b> 🍇</code> ou <code>melancia <b>AND</b> uva</code>
-      <br />
-      <b>Retorna</b>: Resultados que contenham ambas as palavras "🍉" e "🍇".
-    </li>
-    <br />
-    <li>
-      Operador <b>OR</b> (OU) ~ Exemplos:
-      <br />
-      <code>🍉 <b>OR</b> 🍇</code> ou <code>melancia <b>OR</b> uva</code>
-      <br />
-      <b>Retorna</b>: Resultados que contenham qualquer uma das palavras "🍉" ou "🍇", ou AMBAS.
-    </li>
-    <br />
-    <li>
-      Operador <b>NOT</b> (NÃO) ~ Exemplos:
-      <br />
-      <code>🍉 <b>NOT</b> 🍇</code> ou <code>melancia <b>NOT</b> uva</code>
-      <br />
-      <b>Retorna</b>: Resultados que contenham "🍉", mas excluindo aquelas que também mencionam "🍇".
-    </li>
-    <br />
-    <li>
-      Uso de parênteses para agrupar termos ~ Exemplos:
-      <br />
-      <code>🍉 <b>AND</b> <b>(</b>🍇 <b>OR</b> 🍌<b>)</b></code> ou <code>melancia <b>AND</b> <b>(</b>uva <b>OR</b> banana<b>)</b></code>
-      <br />
-      <b>Retorna</b>: Resultados que contenham "🍉" e, em seguida, qualquer uma das palavras "🍇" ou "🍌".
-    </li>
-    <br />
-    <li>
-      Combinação de operadores ~ Exemplos:
-      <br />
-      <code><b>(</b>🍉 <b>OR</b> 🍅<b>)</b> <b>AND</b> <b>(</b>🍇 <b>OR</b> 🍌<b>)</b></code> ou <code><b>(</b>melancia <b>OR</b> tomate<b>)</b> <b>AND</b> <b>(</b>uva <b>OR</b> banana<b>)</b></code>
-      <br />
-      <b>Retorna</b>: Resultados que contenham "🍉" ou "🍅" e também "🍇" ou "🍌".
-    </li>
-  </ol>
+## AND (E)
+
+* Exemplo 1: `🍉 AND 🍇`
+    * Retorna: Resultados que contenham ambas as palavras "🍉" e "🍇".
+* Exemplo 2: `melancia AND uva`
+    * Retorna: Resultados que contenham ambas as palavras "melancia" e "uva".
+
+## OR (OU)
+
+* Exemplo 1: `🍉 OR 🍇`
+    * Retorna: Resultados que contenham qualquer uma das palavras "🍉" ou "🍇", ou ambas.
+* Exemplo 2: `melancia OR uva`
+    * Retorna: Resultados que contenham qualquer uma das palavras "melancia" ou "uva", ou ambas.
+
+## NOT (NÃO)
+
+* Exemplo 1: `🍉 NOT 🍇`
+    * Retorna: Resultados que contenham "🍉", mas excluindo aquelas que também mencionam "🍇".
+* Exemplo 2: `melancia NOT uva`
+    * Retorna: Resultados que contenham "melancia", mas excluindo aquelas que também mencionam "uva".
+
+## Uso de parênteses para agrupar termos
+
+* Exemplo 1: `🍉 AND (🍇 OR 🍌)`
+    * Retorna: Resultados que contenham "🍉" e, em seguida, qualquer uma das palavras "🍇" ou "🍌".
+* Exemplo 2: `melancia AND (uva OR banana)`
+    * Retorna: Resultados que contenham "melancia" e, em seguida, qualquer uma das palavras "uva" ou "banana".
+
+## Combinação de operadores
+
+* Exemplo 1: `(🍉 OR 🍅) AND (🍇 OR 🍌)`
+    * Retorna: Resultados que contenham "🍉" ou "🍅" e também "🍇" ou "🍌".
+* Exemplo 2: `(melancia OR tomate) AND (uva OR banana)`
+    * Retorna: Resultados que contenham "melancia" ou "tomate" e também "uva" ou "banana".
+
 </details>
 
 <!-- FILTROS DE SITES -->
@@ -187,14 +181,14 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   A principal diferença entre o "**AND**" e o "**+**" é que o "**AND**" geralmente é suportado por mecanismos de busca avançados que permitem consultas booleanas completas, enquanto o "**+**" é mais comum em mecanismos de busca mais simples, como os encontrados em mecanismos de busca de sites específicos.
 
 
-**OPERADOR AND (E)**
+## OPERADOR AND (E)
 
 * Exemplo 1: `🧠 AND 🤖`
     * **Retorna**: Os resultados relacionados à "🧠" e que também mencionem a palavra "🤖".
 * Exemplo 2: `Inteligência Artificial AND robôs`
     * **Retorna**: Os resultados relacionados à "inteligência artificial" e que também mencionem a palavra "robôs".
 
-**OPERADOR + (mais)**
+## OPERADOR + (mais)
 
 * Exemplo 1: `👨‍💻 +💡`
     * **Retorna**: Os resultados relacionados à "👨‍💻" e que também mencionem a palavra "💡".
