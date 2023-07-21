@@ -131,7 +131,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   ### Pesquisa em um intervalo específico de tempo:
   * Exemplo 1: `🚀 01/01/2022..31/12/2022`
       * **Retorna**: Os resultados relacionados à "🚀", limitados às notícias e eventos ocorridos no ano de 2022.
-  Exemplo 2: `tecnologia espacial 01/01/2022..31/12/2022`
+  * Exemplo 2: `tecnologia espacial 01/01/2022..31/12/2022`
       * **Retorna**: Os resultados relacionados à "tecnologia espacial", limitados às notícias e eventos ocorridos no ano de 2022.
   
   ### Intervalo aberto de tempo:
