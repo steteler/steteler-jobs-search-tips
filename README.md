@@ -53,37 +53,37 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   ### OPERADOR AND (E)
   
   * Exemplo 1: `🍉 AND 🍇`
-      * **Retorna**: Resultados que contenham ambas as palavras "🍉" e "🍇".
+      * **Retorna**: Os resultados que contenham ambas as palavras "🍉" e "🍇".
   * Exemplo 2: `melancia AND uva`
-      * **Retorna**: Resultados que contenham ambas as palavras "melancia" e "uva".
+      * **Retorna**: Os resultados que contenham ambas as palavras "melancia" e "uva".
   
   ### OPERADOR OR (OU)
   
   * Exemplo 1: `🍉 OR 🍇`
-      * **Retorna**: Resultados que contenham qualquer uma das palavras "🍉" ou "🍇", ou ambas.
+      * **Retorna**: Os resultados que contenham qualquer uma das palavras "🍉" ou "🍇", ou ambas.
   * Exemplo 2: `melancia OR uva`
-      * **Retorna**: Resultados que contenham qualquer uma das palavras "melancia" ou "uva", ou ambas.
+      * **Retorna**: Os resultados que contenham qualquer uma das palavras "melancia" ou "uva", ou ambas.
   
   ### OPERADOR NOT (NÃO)
   
   * Exemplo 1: `🍉 NOT 🍇`
-      * **Retorna**: Resultados que contenham "🍉", mas excluindo aquelas que também mencionam "🍇".
+      * **Retorna**: Os resultados que contenham a palavra "🍉", mas excluindo aquelas que também mencionam "🍇".
   * Exemplo 2: `melancia NOT uva`
-      * **Retorna**: Resultados que contenham "melancia", mas excluindo aquelas que também mencionam "uva".
+      * **Retorna**: Os resultados que contenham a palavra "melancia", mas excluindo aquelas que também mencionam "uva".
   
   ### Uso de parênteses para agrupar termos ou filtros
   
   * Exemplo 1: `🍉 AND (🍇 OR 🍌)`
-      * **Retorna**: Resultados que contenham "🍉" e, em seguida, qualquer uma das palavras "🍇" ou "🍌".
+      * **Retorna**: Os resultados que contenham a palavra "🍉" e, em seguida, qualquer uma das palavras "🍇" ou "🍌".
   * Exemplo 2: `melancia AND (uva OR banana)`
-      * **Retorna**: Resultados que contenham "melancia" e, em seguida, qualquer uma das palavras "uva" ou "banana".
+      * **Retorna**: Os resultados que contenham a palavra "melancia" e, em seguida, qualquer uma das palavras "uva" ou "banana".
   
   ### Combinação de operadores
   
   * Exemplo 1: `(🍉 OR 🍅) AND (🍇 OR 🍌)`
-      * **Retorna**: Resultados que contenham "🍉" ou "🍅" e também "🍇" ou "🍌".
+      * **Retorna**: Os resultados que contenham as palavras "🍉" ou "🍅" e que também contenham as palavras "🍇" ou "🍌".
   * Exemplo 2: `(melancia OR tomate) AND (uva OR banana)`
-      * **Retorna**: Resultados que contenham "melancia" ou "tomate" e também "uva" ou "banana".
+      * **Retorna**: Os resultados que contenham "melancia" ou "tomate" e também "uva" ou "banana".
 
   <br />
 </details>
@@ -103,16 +103,16 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   ### OPERADOR site:DominioDoSite.com ou +site:DominioDoSite.com
 
   * Exemplo 1: `💪 site:saude.gov.br`
-      * **Retorna**: Os resultados deste tema estão limitados ao domínio que você especificou. Isso significa que você verá apenas informações relacionadas a esse domínio e nenhum outro domínio será mostrado.
+      * **Retorna**: Os resultados deste tema estão limitados ao domínio que você especificou **(saude.gov.br)**. Isso significa que você verá apenas informações relacionadas a esse domínio e nenhum outro domínio será mostrado.
   * Exemplo 2: `benefícios do exercício físico site:saude.gov.br`
-      * **Retorna**: Os resultados deste tema estão limitados ao domínio que você especificou. Isso significa que você verá apenas informações relacionadas a esse domínio e nenhum outro domínio será mostrado.
+      * **Retorna**: Os resultados deste tema estão limitados ao domínio que você especificou **(saude.gov.br)**. Isso significa que você verá apenas informações relacionadas a esse domínio e nenhum outro domínio será mostrado.
   
   ### OPERADOR -site:DominioDoSite.com
 
   * Exemplo 1: `💪 -site:saude.gov.br`
-      * **Retorna**: Os resultados não mostrarão informações provenientes do domínio que você especificou. Eles serão obtidos de outras fontes, excluindo completamente qualquer conteúdo vinculado a esse domínio em particular.
+      * **Retorna**: Os resultados não mostrarão informações provenientes do domínio que você especificou **(saude.gov.br)**. Eles serão obtidos de outras fontes, excluindo completamente qualquer conteúdo vinculado a esse domínio em particular.
   * Exemplo 2: `benefícios do exercício físico -site:saude.gov.br`
-      * **Retorna**: Os resultados não mostrarão informações provenientes do domínio que você especificou. Eles serão obtidos de outras fontes, excluindo completamente qualquer conteúdo vinculado a esse domínio em particular.
+      * **Retorna**: Os resultados não mostrarão informações provenientes do domínio que você especificou **(saude.gov.br)**. Eles serão obtidos de outras fontes, excluindo completamente qualquer conteúdo vinculado a esse domínio em particular.
 
   <br />
 </details>
@@ -130,22 +130,21 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   
   ### Pesquisa em um intervalo específico de tempo:
   * Exemplo 1: `🚀 01/01/2022..31/12/2022`
-      * **Retorna**: Resultados relacionados à "🚀", limitados às notícias e eventos ocorridos no ano de 2022.
+      * **Retorna**: Os resultados relacionados à "🚀", limitados às notícias e eventos ocorridos no ano de 2022.
   Exemplo 2: `tecnologia espacial 01/01/2022..31/12/2022`
-      * **Retorna**: Resultados relacionados à "tecnologia espacial", limitados às notícias e eventos ocorridos no ano de 2022.
+      * **Retorna**: Os resultados relacionados à "tecnologia espacial", limitados às notícias e eventos ocorridos no ano de 2022.
   
   ### Intervalo aberto de tempo:
   * Exemplo 1: `💲 ..31/12/2020`
-      * **Retorna**: Informações sobre a "💲", apenas até o final de 2020, excluindo resultados mais recentes.
+      * **Retorna**: Os resultados relacionados à "💲", apenas até o final de 2020, excluindo resultados mais recentes.
   * Exemplo 2: `crise econômica ..31/12/2020`
-      * **Retorna**: Informações sobre a "crise econômica", apenas até o final de 2020, excluindo resultados mais recentes.
+      * **Retorna**: Os resultados relacionados à "crise econômica", apenas até o final de 2020, excluindo resultados mais recentes.
   
   ### Intervalo de tempo com filtros adicionais:
   * Exemplo 1: `⚽ site:esporte.com 01/01/2021..31/12/2021`
-      * **Retorna**: Informações sobre "⚽", restritas ao site "esporte.com" e ao ano de 2021.
+      * **Retorna**: Os resultados relacionados à "⚽", restritas ao domínio que você especificou **(esporte.com)** e ao ano de 2021.
   * Exemplo 2: `futebol site:esporte.com 01/01/2021..31/12/2021`
-      * **Retorna**: Informações sobre "futebol", restritas ao site "esporte.com" e ao ano de 2021.
-
+      * **Retorna**: Os resultados relacionados à "futebol", restritas ao domínio que você especificou **(esporte.com)** e ao ano de 2021.
   <br />
 </details>
 
@@ -163,16 +162,16 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   ### Operador NOT (NÃO)
 
   * Exemplo 1: `✈️ NOT 🏖️`
-  	* Retorna: Os resultados relacionadas à ✈️, mas excluirá aquelas que também mencionam a palavra "🏖️".
-  * Exemplo 2: `Viagem NOT praia`
-  	* Retorna: Os resultados relacionadas à Viagem, mas excluirá aquelas que também mencionam a palavra "praia".
+  	* Retorna: Os resultados relacionadas à "✈️", mas excluirá aquelas que também mencionam a palavra "🏖️".
+  * Exemplo 2: `viagem NOT praia`
+  	* Retorna: Os resultados relacionadas à "viagem", mas excluirá aquelas que também mencionam a palavra "praia".
   
   ### Operador - (MENOS)
 
   * Exemplo 1: `✈️ -🏖️`
-  	* Retorna: Os resultados relacionados à informações sobre ✈️, mas não incluirá resultados que mencionem a palavra "🏖️".
-  * Exemplo 2: `Viagem -praia`
-  	* Retorna: Os resultados relacionados à informações sobre viagens, mas não incluirá resultados que mencionem a palavra "praia".
+  	* Retorna: Os resultados relacionadas à "✈️", mas excluirá aquelas que também mencionam a palavra "🏖️".
+  * Exemplo 2: `viagem -praia`
+  	* Retorna: Os resultados relacionadas à "viagem", mas excluirá aquelas que também mencionam a palavra "praia".
 
   <br />
 </details>
@@ -193,7 +192,7 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 
 * Exemplo 1: `🧠 AND 🤖`
     * **Retorna**: Os resultados relacionados à "🧠" e que também mencionem a palavra "🤖".
-* Exemplo 2: `Inteligência Artificial AND robôs`
+* Exemplo 2: `inteligência artificial AND robôs`
     * **Retorna**: Os resultados relacionados à "inteligência artificial" e que também mencionem a palavra "robôs".
 
 ### OPERADOR + (mais)
