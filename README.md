@@ -161,21 +161,27 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- FILTRO PALAVRAS INDESEJADAS -->
 <!-- HTML -->
 <details>
-  <summary>⭐ FILTRO DE PALAVRAS INDESEJADAS [50% ⚠️]</summary>
+  <summary>⭐ FILTRO DE PALAVRAS INDESEJADAS [100% ✔️]</summary>
   <br />
   <br />
 
-  O filtro de palavras indesejadas na pesquisa booleana, usando os operadores "NOT" e "-", permite excluir certas palavras ou termos da sua consulta de busca para refinar os resultados e obter informações mais relevantes.
-
-  - Operador "NOT": É usado para excluir palavras específicas dos resultados da pesquisa. Quando você usa o "NOT" antes de uma palavra ou termo, está instruindo o mecanismo de busca a ignorar resultados que contenham essa palavra. Por exemplo:
-  Pesquisa: "Inteligência Artificial NOT robôs"
-  Resultados: Esta pesquisa retornará páginas relacionadas à inteligência artificial, mas excluirá aquelas que também mencionam a palavra "robôs".
-
-  - O operador "-" também é usado para excluir palavras ou termos da pesquisa. É muito semelhante ao "NOT" e pode ser usado de forma intercambiável. Por exemplo:
-  Pesquisa: "Viagem -praia"
-  Resultados: Esta pesquisa retornará informações sobre viagens, mas não incluirá resultados que mencionem a palavra "praia".
+  O filtro de palavras indesejadas permite excluir certas palavras ou termos da sua consulta de busca para refinar os resultados e obter informações mais relevantes.
   
-  - A principal diferença entre o "NOT" e o "-" é que o "NOT" geralmente é suportado por mecanismos de busca avançados que permitem consultas booleanas completas, enquanto o "-" é mais comum em mecanismos de busca mais simples, como os encontrados em mecanismos de busca de sites específicos.
+  A principal diferença entre o "NOT" e o "-" é que o "NOT" geralmente é suportado por mecanismos de busca avançados que permitem consultas booleanas completas, enquanto o "-" é mais comum em mecanismos de busca mais simples, como os encontrados em mecanismos de busca de sites específicos.
+  
+  ### Operador NOT (NÃO)
+
+  * Exemplo 1: `✈️ NOT 🏖️`
+  	* Retorna: Os resultados relacionadas à ✈️, mas excluirá aquelas que também mencionam a palavra "🏖️".
+  * Exemplo 2: `Viagem NOT praia`
+  	* Retorna: Os resultados relacionadas à Viagem, mas excluirá aquelas que também mencionam a palavra "praia".
+  
+  ### Operador - (MENOS)
+
+  * Exemplo 1: `✈️ -🏖️`
+  	* Retorna: Os resultados relacionados à informações sobre ✈️, mas não incluirá resultados que mencionem a palavra "🏖️".
+  * Exemplo 2: `Viagem -praia`
+  	* Retorna: Os resultados relacionados à informações sobre viagens, mas não incluirá resultados que mencionem a palavra "praia".
 
   <br />
 </details>
