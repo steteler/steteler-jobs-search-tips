@@ -129,21 +129,21 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   Lembre-se de que é importante utilizar o formato correto da data, conforme o padrão do mecanismo de pesquisa que você está usando. Além disso, nem todos os mecanismos de pesquisa suportam esse tipo de filtro, portanto, verifique a documentação específica do mecanismo de busca para garantir que o recurso esteja disponível e para entender a sintaxe correta a ser usada. Com o filtro de intervalo de tempo, você pode refinar sua pesquisa e obter resultados mais relevantes e atualizados.
   
   ### Pesquisa em um intervalo específico de tempo:
-  Exemplo 1: `🚀 01/01/2022..31/12/2022`
+  * Exemplo 1: `🚀 01/01/2022..31/12/2022`
       * **Retorna**: Resultados relacionados à "🚀", limitados às notícias e eventos ocorridos no ano de 2022.
   Exemplo 2: `tecnologia espacial 01/01/2022..31/12/2022`
       * **Retorna**: Resultados relacionados à "tecnologia espacial", limitados às notícias e eventos ocorridos no ano de 2022.
   
   ### Intervalo aberto de tempo:
-  Exemplo 1: `💲 ..31/12/2020`
+  * Exemplo 1: `💲 ..31/12/2020`
       * **Retorna**: Informações sobre a "💲", apenas até o final de 2020, excluindo resultados mais recentes.
-  Exemplo 2: `crise econômica ..31/12/2020`
+  * Exemplo 2: `crise econômica ..31/12/2020`
       * **Retorna**: Informações sobre a "crise econômica", apenas até o final de 2020, excluindo resultados mais recentes.
   
   ### Intervalo de tempo com filtros adicionais:
-  Exemplo 1: `⚽ site:esporte.com 01/01/2021..31/12/2021`
+  * Exemplo 1: `⚽ site:esporte.com 01/01/2021..31/12/2021`
       * **Retorna**: Informações sobre "⚽", restritas ao site "esporte.com" e ao ano de 2021.
-  Exemplo 2: `futebol site:esporte.com 01/01/2021..31/12/2021`
+  * Exemplo 2: `futebol site:esporte.com 01/01/2021..31/12/2021`
       * **Retorna**: Informações sobre "futebol", restritas ao site "esporte.com" e ao ano de 2021.
 
   <br />
