@@ -120,40 +120,31 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
 <!-- FILTROS DE INTERVALOS DE TEMPO -->
 <!-- HTML -->
 <details>
-  <summary>⭐ FILTRO DE INTERVALOS DE TEMPO [50% ⚠️]</summary>
+  <summary>⭐ FILTRO DE INTERVALOS DE TEMPO [100% ✔️]</summary>
   <br />
   <br />
 
-  Caso queira visualizar apenas resultados recentes, pode utilizar filtros de tempo para delimitar a pesquisa a um período específico, como "últimos 6 meses" ou "último ano".
-  <br />
-  <br />
-  O filtro de intervalo de tempo na pesquisa booleana é uma ferramenta que permite restringir os resultados da busca para um período específico. Ele é muito útil quando você deseja encontrar informações relevantes em um intervalo de tempo particular ou acompanhar eventos e notícias ocorridos dentro de um determinado período.
+  O filtro de intervalo de tempo é uma ferramenta que permite restringir os resultados da busca para um período específico. Ele é muito útil quando você deseja encontrar informações relevantes em um intervalo de tempo particular ou acompanhar eventos e notícias ocorridos dentro de um determinado período.
 
-  A sintaxe geral para usar o filtro de intervalo de tempo varia dependendo do mecanismo de pesquisa, mas geralmente segue o formato:
-  
-  <code>termo de pesquisa data_inicial..data_final</code>
-  
-  Aqui está como funciona e alguns exemplos:
-  
-  Pesquisa em um intervalo específico de tempo:
-  Suponha que você queira pesquisar sobre "tecnologia espacial" em notícias apenas do ano de 2022. Sua pesquisa seria:
-  <code>tecnologia espacial 01/01/2022..31/12/2022</code>
-  
-  Isso retornará resultados relacionados à tecnologia espacial, mas limitados às notícias e eventos ocorridos no ano de 2022.
-  
-  Intervalo aberto de tempo:
-  Você também pode usar um intervalo aberto para pesquisar até uma data específica. Por exemplo:
-  <code>crise econômica ..31/12/2020</code>
-  
-  Isso retornará informações sobre a crise econômica, mas apenas até o final de 2020, excluindo resultados mais recentes.
-  
-  Intervalo de tempo com filtros adicionais:
-  O filtro de intervalo de tempo também pode ser combinado com outros filtros booleanos para refinar ainda mais os resultados. Por exemplo:
-  <code>futebol site:esporte.com 01/01/2021..31/12/2021</code>
-  
-  Essa pesquisa retornará informações sobre futebol, mas apenas no site "esporte.com" e restritas ao ano de 2021.
-  
   Lembre-se de que é importante utilizar o formato correto da data, conforme o padrão do mecanismo de pesquisa que você está usando. Além disso, nem todos os mecanismos de pesquisa suportam esse tipo de filtro, portanto, verifique a documentação específica do mecanismo de busca para garantir que o recurso esteja disponível e para entender a sintaxe correta a ser usada. Com o filtro de intervalo de tempo, você pode refinar sua pesquisa e obter resultados mais relevantes e atualizados.
+  
+  ### Pesquisa em um intervalo específico de tempo:
+  Exemplo 1: `🚀 01/01/2022..31/12/2022`
+      * **Retorna**: Resultados relacionados à "🚀", limitados às notícias e eventos ocorridos no ano de 2022.
+  Exemplo 2: `tecnologia espacial 01/01/2022..31/12/2022`
+      * **Retorna**: Resultados relacionados à "tecnologia espacial", limitados às notícias e eventos ocorridos no ano de 2022.
+  
+  ### Intervalo aberto de tempo:
+  Exemplo 1: `💲 ..31/12/2020`
+      * **Retorna**: Informações sobre a "💲", apenas até o final de 2020, excluindo resultados mais recentes.
+  Exemplo 2: `crise econômica ..31/12/2020`
+      * **Retorna**: Informações sobre a "crise econômica", apenas até o final de 2020, excluindo resultados mais recentes.
+  
+  ### Intervalo de tempo com filtros adicionais:
+  Exemplo 1: `⚽ site:esporte.com 01/01/2021..31/12/2021`
+      * **Retorna**: Informações sobre "⚽", restritas ao site "esporte.com" e ao ano de 2021.
+  Exemplo 2: `futebol site:esporte.com 01/01/2021..31/12/2021`
+      * **Retorna**: Informações sobre "futebol", restritas ao site "esporte.com" e ao ano de 2021.
 
   <br />
 </details>
