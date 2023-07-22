@@ -1,4 +1,121 @@
 <!-- 
+
+spoiler:
+
+<details>
+  <summary>OPERADOR “ ” [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR OR / | / ou [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR AND / & / e [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR NOT / - [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR * [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR ( ) [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR define: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR cache: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR filetype: / ext: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR site: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR related: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR intitle: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR allintitle:	 [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR inurl: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR allinurl: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR intext: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR allintext: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR weather: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR stocks: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR map: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR movie: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR in [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR source: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR before: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR after: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR _ [0% ❌]</summary>
+</details>
+
+~~~~~~~~~~~~~~~ operadores não precisos.
+<details>
+  <summary>OPERADOR #..# [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR inanchor: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR allinanchor: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR AROUND(X) [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR loc: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR location: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR daterange: [0% ❌]</summary>
+</details>
+<details>
+  <summary>OPERADOR safesearch: [0% ❌]</summary>
+</details>
+
+<details>
+  <summary>REFERENCES</summary>
+  https://ahrefs.com/blog/google-advanced-search-operators/
+</details>
+-->
+
+
+
+<!-- 
 Eu escolhi combinar códigos em markdown e html, pois eles se complementam mutuamente. Por exemplo, enquanto o markdown pode ser útil para a maioria das formatações de texto, como títulos e listas, ele não oferece suporte para alinhar o texto no centro e algumas outras funcionalidades avançadas. É aí que o html entra, permitindo preencher essas lacunas. No entanto, reconheço que o html pode ser mais verboso em comparação com o markdown, tornando o código mais extenso. Portanto, sempre que possível, opto pelo markdown para manter o código mais limpo e legível.
 -->
 
@@ -40,7 +157,6 @@ A pesquisa booleana é uma poderosa aliada não apenas para encontrar empregos, 
 ## Como funciona?
 A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores booleanos, como **AND**, **OR** e **NOT**, para combinar palavras-chave e refinar os resultados. Essa abordagem possibilita tornar suas pesquisas mais precisas, permitindo que você ignore resultados que não correspondam exatamente ao que está procurando. A flexibilidade dessa técnica permite combinar diversos filtros, ampliando as possibilidades de busca e permitindo a personalização das informações desejadas. É uma ferramenta fundamental para aprimorar a eficácia das buscas na internet.
 
--->
 <!-- FILTROS LÓGICOS -->
 <!-- HTML -->
 <details>
