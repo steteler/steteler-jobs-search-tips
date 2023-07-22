@@ -40,6 +40,7 @@ A pesquisa booleana é uma poderosa aliada não apenas para encontrar empregos, 
 ## Como funciona?
 A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores booleanos, como **AND**, **OR** e **NOT**, para combinar palavras-chave e refinar os resultados. Essa abordagem possibilita tornar suas pesquisas mais precisas, permitindo que você ignore resultados que não correspondam exatamente ao que está procurando. A flexibilidade dessa técnica permite combinar diversos filtros, ampliando as possibilidades de busca e permitindo a personalização das informações desejadas. É uma ferramenta fundamental para aprimorar a eficácia das buscas na internet.
 
+-->
 <!-- FILTROS LÓGICOS -->
 <!-- HTML -->
 <details>
@@ -172,35 +173,6 @@ A busca booleana é uma técnica de pesquisa poderosa que utiliza operadores boo
   	* Retorna: Os resultados relacionadas à "✈️", mas excluirá aquelas que também mencionam a palavra "🏖️".
   * Exemplo 2: `viagem -praia`
   	* Retorna: Os resultados relacionadas à "viagem", mas excluirá aquelas que também mencionam a palavra "praia".
-
-  <br />
-</details>
-
-<!-- FILTRO PALAVRAS OBRIGATÓRIAS -->
-<!-- HTML -->
-<details>
-  <summary>⭐ FILTRO DE PALAVRAS OBRIGATÓRIAS [100% ✔️]</summary>
-  <br />
-  <br />
-
-<!-- MARKDOWN -->
-  O filtro de palavras obrigatórias é realizado usando os operadores "**AND**" e "**+**". Esses operadores permitem que você especifique palavras ou termos que devem estar presentes em todos os resultados da pesquisa, tornando-a mais precisa e focada.
-  
-  A principal diferença entre o "**AND**" e o "**+**" é que o "**AND**" geralmente é suportado por mecanismos de busca avançados que permitem consultas booleanas completas, enquanto o "**+**" é mais comum em mecanismos de busca mais simples, como os encontrados em mecanismos de busca de sites específicos.
-
-### OPERADOR AND (E)
-
-* Exemplo 1: `🧠 AND 🤖`
-    * **Retorna**: Os resultados relacionados à "🧠" e que também mencionem a palavra "🤖".
-* Exemplo 2: `inteligência artificial AND robôs`
-    * **Retorna**: Os resultados relacionados à "inteligência artificial" e que também mencionem a palavra "robôs".
-
-### OPERADOR + (mais)
-
-* Exemplo 1: `👨‍💻 +💡`
-    * **Retorna**: Os resultados relacionados à "👨‍💻" e que também mencionem a palavra "💡".
-* Exemplo 2: `tecnologia +inovação`
-    * **Retorna**: Os resultados relacionados à "tecnologia" que também mencionem a palavra "inovação".
 
   <br />
 </details>
