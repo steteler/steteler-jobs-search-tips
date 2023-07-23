@@ -93,16 +93,61 @@ spoiler:
 </details>
 <details>
   <summary>OPERADOR AROUND(X) [0% ❌]</summary>
+
+###  OPERADOR AROUND (LOCALIZAÇÂO ATUAL)
+ 
+  * Exemplo 1: `👽 AROUND: 📍`
+      * **Retorna**: Os resultados que contenham "👽" em "📍". 
+  * Exemplo 2: `alienígenas à 2km`
+      * **Retorna**: Os resultados que contenham alienígenas até 2km da localização atual.
+  
 </details>
+
+
 <details>
   <summary>OPERADOR loc: [0% ❌]</summary>
+  
+###  OPERADOR LOC (LOCALIZAÇÂO GEOGRÀFICA) //ÀREA GEOGRÀFICA
+ 
+  * Exemplo 1: `🏫 LOC: 🌆`
+      * **Retorna**: Os resultados que contenham "🏫" no "🌆". 
+  * Exemplo 2: `colégio na região do CEP`
+      * **Retorna**: Os resultados que contenham colégios na região 20000-001.
+
 </details>
 <details>
   <summary>OPERADOR location: [0% ❌]</summary>
+
+###  OPERADOR LOCATION (LOCALIZAÇÂO)
+ 
+  * Exemplo 1: `🍨 LOCATION: 🌇`
+      * **Retorna**: Os resultados que contenham "🍨" na região "🌇". 
+  * Exemplo 2: `sorveterias na cidade`
+      * **Retorna**: Os resultados que contenham sorveterias na região de São Paulo.
+
 </details>
 <details>
-  <summary>OPERADOR daterange: [0% ❌]</summary>
+  <summary>OPERADOR daterange: [0% ❌]</summary>    
+  
+  Observação: Dias anteriores a pessoa pode confundir com a formatação com a do português (d,w,m,y) por isso coloquei 'w' ao invés de 'd'
+                                                                                
+###  INTERVALO DE DATA
+ 
+  * Exemplo 1: `✈️ 2023-01-31/2023-02-05`
+      * **Retorna**: Os resultados que relacionados à "✈️" no período 2023-01-31/2023-02-05. 
+  * Exemplo 2: `viagens entre datas`
+      * **Retorna**: Os resultados relacionados à viagens no período entre as duas datas.
+
+ ###  DATAS ANTERIORES
+ 
+  * Exemplo 1: `💼 DATERANGE: 📅`
+      * **Retorna**: Os resultados relacionados à "💼" nas últimos 2w. 
+  * Exemplo 2: `emprego nas últimos 2 semanas`
+      * **Retorna**: Os resultados relacionados à emprego nas últimas 2 semanas.
+     
 </details>
+
+
 <details>
   <summary>OPERADOR safesearch: [0% ❌]</summary>
 </details>
