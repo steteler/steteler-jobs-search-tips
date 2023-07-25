@@ -84,12 +84,45 @@ spoiler:
 ~~~~~~~~~~~~~~~ operadores não precisos.
 <details>
   <summary>OPERADOR #..# [0% ❌]</summary>
+
+  ###  OPERADOR #..# (PALAVRA-CHAVE DUPLA)
+ 
+  * Exemplo 1: `🕸️ #..#: 📄`
+      * **Retorna**: Os resultados que contenham "🕸️" nas "📄". 
+  * Exemplo 2: `Teia de aranha em casa`
+      * **Retorna**: Os resultados que contenham a palavra-chave dupla "teia de aranha" nas páginas.
+
 </details>
 <details>
   <summary>OPERADOR inanchor: [0% ❌]</summary>
+
+  ###  OPERADOR INANCHOR (TÌTULO DA PÀGINA)
+ 
+  * Exemplo 1: `⚖️ INANCHOR: 📰`
+      * **Retorna**: Os resultados que contenham "⚖️" em "📰". 
+  * Exemplo 2: `Palavra no título da página`
+      * **Retorna**: Os resultados que contenham a palavra "justiça" no título das páginas.
+
 </details>
 <details>
   <summary>OPERADOR allinanchor: [0% ❌]</summary>
+  
+  ###  OPERADOR ALLINANCHOR (DESCRIÇÂO DO LINK) //Não coloquei texto âncora por que fica verboso
+ 
+  * Exemplo 1: `🆘 ALLINANCHOR: 🔗`
+      * **Retorna**: Os resultados que contenham "🆘" no "🔗". 
+  * Exemplo 2: `Palavras no link`
+      * **Retorna**: Os resultados que contenham a sigla "SOS" em um texto de link.
+
+      você pode também pode escolher mais:
+      Texto de link
+      Texto de referência
+      Texto de redirecionamento
+      Palavra ou frase linkada
+      Palavra ou frase de link
+      Texto de cliques
+      Palavra ou frase de ligação
+      
 </details>
 <details>
   <summary>OPERADOR AROUND(X) [0% ❌]</summary>
